@@ -2,7 +2,7 @@
 layout:   event
 title:    "Physicalism, etc."
 speaker:  "Tim Crane" 
-date:     2015-10-14 12:00:00
+date:     2015-10-14
 author:   "New Directions"
 header-img: "img/bgs/epistemic.jpg"
 thumbnail: "epistemic-thumbnail.png"
