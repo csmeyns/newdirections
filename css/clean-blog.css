@@ -66,6 +66,13 @@ hr.small {
     background-color: #f7f7f7;
 }
 
+.event-contrast {
+    background-color: #f7f7f7;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px;
+}
+
 .bg-darkest-gray {
     background-color: #222;
 }
