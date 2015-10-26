@@ -1,6 +1,8 @@
 
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-	<h1 class="title">{% if page.upcomingtitle %}{{ page.upcomingtitle }}{% else %}Upcoming{% endif %}</h1>
+ 	<div class="text-center">
+		<h1 class="title">{% if page.upcomingtitle %}{{ page.upcomingtitle }}{% else %}Upcoming{% endif %}</h1>
+	</div>
 	<section class="event-contrast">			
 		{% assign curDate = site.time | date: '%s' %}
 		{% for event in site.categories.events reversed limit:3 %}
@@ -18,7 +20,11 @@
 				{% endif %}
 			<hr>
 		{% endfor %}
-		<a href="upcoming\"><i>More upcoming events</i></a>	
+		<ul class="pager">
+		<li class="next">
+		<a href="upcoming\">{% if page.moreup %}{{ page.moreup }}{% else %}More{% endif %}</a>	
+		</li>
+		</ul>
 	</section>
 </div>
 
@@ -28,7 +34,9 @@
 </div>  			
   			
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-	<h1>{% if page.pasttitle %}{{ page.pasttitle }}{% else %}Past{% endif %}</h1>
+	<div class="text-center">
+		<h1>{% if page.pasttitle %}{{ page.pasttitle }}{% else %}Past{% endif %}</h1>
+	</div>
   	<section class="event-contrast">			
 		{% assign curaDate = site.time | date: '%s' %}
 		{% for event in site.categories.events %}
@@ -51,6 +59,10 @@
 						{% endif %}
 				{% endif %}
 		{% endfor %}
-		<a href="past\"><i>More past events</i></a>
+		<ul class="pager">
+		<li class="next">
+		<a href="past\">{% if page.morepast %}{{ page.morepast }}{% else %}More{% endif %}</a>
+		</li>
+		</ul>
 	</section>
 </div>
