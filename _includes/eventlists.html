@@ -1,6 +1,6 @@
 
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
- 	<div class="text-center">
+ 	<div class="text-align-left">
 		<h1 class="title">{% if page.upcomingtitle %}{{ page.upcomingtitle }}{% else %}Upcoming{% endif %}</h1>
 	</div>
 	<section class="event-contrast">			
@@ -29,7 +29,7 @@
 		{% endfor %}
 		<ul class="pager">
 		<li class="next">
-		<a href="upcoming\">{% if page.moreup %}{{ page.moreup }}{% else %}More{% endif %}</a>	
+		<a href="upcoming">{% if page.moreup %}{{ page.moreup }}{% else %}More upcoming{% endif %}</a>	
 		</li>
 		</ul>
 	</section>
@@ -41,7 +41,7 @@
 </div>  			
   			
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-	<div class="text-center">
+	<div class="text-align-left">
 		<h1>{% if page.pasttitle %}{{ page.pasttitle }}{% else %}Past{% endif %}</h1>
 	</div>
   	<section class="event-contrast">			
@@ -68,7 +68,7 @@
 		{% endfor %}
 		<ul class="pager">
 		<li class="next">
-		<a href="past\">{% if page.morepast %}{{ page.morepast }}{% else %}More{% endif %}</a>
+		<a href="past">{% if page.morepast %}{{ page.morepast }}{% else %}More past{% endif %}</a>
 		</li>
 		</ul>
 	</section>

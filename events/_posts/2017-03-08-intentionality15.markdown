@@ -1,8 +1,8 @@
 ---
-layout:   post
-title:    "Consciousness #07"
+layout:   event
+title:    "Intentionality #15"
 subtitle:  
-date:     2015-11-25 12:00:00
+date:     2017-03-08 12:00:00
 author:   "New Directions"
 header-img: "img/bgs/epistemic.jpg"
 thumbnail: "epistemic-thumbnail.png"

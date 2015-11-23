@@ -1,18 +1,23 @@
 ---
 layout: page
-title: "Events"
+title: "Upcoming events"
 menu: "no"
-description: "Take part."
-header-img: "img/events-bg3.jpg"
+description: "It will be good."
+header-img: "img/events-upcoming.jpg"
 ---
 
 
 
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
- 	<div class="text-center">
+<!--  	<div class="text-center">
 		<h1 class="title">{% if page.upcomingtitle %}{{ page.upcomingtitle }}{% else %}Upcoming{% endif %}</h1>
-	</div>
+	</div> -->
 	<section class="event-contrast">			
+<!-- 		<ul class="pager">
+		<li class="next">
+		<a href="..">Back</a>	
+		</li>
+		</ul> -->
 		{% assign curDate = site.time | date: '%s' %}
 		{% for event in site.categories.events reversed %}
 			{% assign postStartDate = event.date | date: '%s' %}
@@ -32,10 +37,10 @@ header-img: "img/events-bg3.jpg"
 				{% endif %}
 			
 		{% endfor %}
-		<ul class="pager">
+<!-- 		<ul class="pager">
 		<li class="next">
-		<a href="..\">Back</a>	
-		</li>
+		<a href="..">Back</a>	
+		</li> -->
 		</ul>
 	</section>
 </div>
