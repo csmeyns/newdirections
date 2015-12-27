@@ -6,41 +6,13 @@ description: "It will be good."
 header-img: "img/events-upcoming.jpg"
 ---
 
+<p>We are running a weekly New Directions seminar. The seminar is open to all members of the University of Cambridge. Those from outside the University interested in attending should contact the Project Leader, <a href="{{ site.baseurl }}/about/">Tim Crane</a>.</p>
+
+<p>Slides from the seminar are made available through our <a href="https://speakerdeck.com/newdirectionsproject">Speakerdeck page</a></p>
 
 
-<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-<!--  	<div class="text-center">
-		<h1 class="title">{% if page.upcomingtitle %}{{ page.upcomingtitle }}{% else %}Upcoming{% endif %}</h1>
-	</div> -->
-	<section class="event-contrast">			
-<!-- 		<ul class="pager">
-		<li class="next">
-		<a href="..">Back</a>	
-		</li>
-		</ul> -->
-		{% assign curDate = site.time | date: '%s' %}
-		{% for event in site.categories.events reversed %}
-			{% assign postStartDate = event.date | date: '%s' %}
-				{% if postStartDate <= curDate %}
-					{% assign LastNeww = forloop.index %}
-					{% else %}	
-							<div class="post-preview">
-						 		<a href="{{ event.url | prepend: site.baseurl }}">
-							        <h2 class="post-title">{{ event.title }}</h2>
-							        {% if event.speaker %}
-							        	<h3 class="post-subtitle">{{ event.speaker }}</h3>
-							        {% endif %}
-						    	</a>
-						    	<p class="post-meta">{% if event.location %}At {{ event.location }}, {% else %}{% endif %}{{ event.date | date: "%A, %B %-d, %Y" }}</p>
-							</div>
-							<hr>
-				{% endif %}
-			
-		{% endfor %}
-<!-- 		<ul class="pager">
-		<li class="next">
-		<a href="..">Back</a>	
-		</li> -->
-		</ul>
-	</section>
-</div>
+<script async class="speakerdeck-embed" data-id="a7fdb68f05a443939ff35bc0ba6b3301" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+
+<span class="caption text-muted">Image: 
+<a href="..." target="_blank">TITLE</a>, 
+AUTHOR</span>

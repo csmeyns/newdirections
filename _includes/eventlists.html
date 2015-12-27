@@ -17,7 +17,7 @@
 							        	<h3 class="post-subtitle">{{ event.speaker }}</h3>
 							        {% endif %}
 						    	</a>
-						    	<p class="post-meta">{% if event.location %}At {{ event.location }}, {% else %}{% endif %}{{ event.date | date: "%A, %B %-d, %Y" }}</p>
+						    	<p class="post-meta">{% if event.location %}At {{ event.location }}, {% else %}{% endif %}{{ event.date | date: "%A, %B %-d, %Y" }} {% if page.enddate %} - {{ page.enddate | date: "%B %-d, %Y"}} {% else %}{% endif %}</p>
 							</div>
 							<hr>
 				{% endif %}

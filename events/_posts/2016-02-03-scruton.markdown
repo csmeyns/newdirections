@@ -1,14 +1,17 @@
 ---
 layout:   event
-title:    "Intentionality #20"
-subtitle:  
-date:     2017-05-24 12:00:00
+title:    "Scruton Fest"
+subtitle:  "Celebrating the Work of Roger Scruton"
+date:     2016-02-03 12:00:00
+enddate:	2016-02-04
 author:   "New Directions"
 header-img: "img/bgs/epistemic.jpg"
 thumbnail: "epistemic-thumbnail.png"
 ---
 
-...
+A celebration of the work of Roger Scruton.
+
+Event hashtag: #scrutonfest
 
 <span class="caption text-muted">Image: 
 <a href="..." target="_blank">TITLE</a>, 
