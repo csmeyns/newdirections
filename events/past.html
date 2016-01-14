@@ -1,0 +1,52 @@
+---
+layout: page
+title: "Past events"
+menu: "no"
+description: "It was good."
+header-img: "img/events-past.jpg"
+---
+	
+<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<!-- 	<div class="text-center">
+		<h1>{% if page.pasttitle %}{{ page.pasttitle }}{% else %}{% endif %}</h1>
+	</div> -->
+  	<section class="event-contrast">
+<!--   	<ul class="pager">
+		<li class="next">
+		<a href="..">Back</a>	
+		</li>
+		</ul>	 -->		
+		{% assign curaDate = site.time | date: '%s' %}
+		{% for event in site.categories.events %}
+			{% assign postaStartDate = event.date | date: '%s' %}	
+				{% if postaStartDate < curaDate %}				
+							<div class="post-preview">
+								<a href="{{ event.url | prepend: site.baseurl }}">
+					        		<h2 class="post-title">{{ event.title }}</h2>
+				        			{% if event.speaker %}
+				        				<h3 class="post-subtitle">{{ event.speaker }}</h3>
+				        			{% endif %}
+				    			</a>
+				    			<p class="post-meta">{% if event.location %}{{ event.location }}{% else %}{{ site.title }}{% endif %}, {{ event.date | date: "%-d %B %Y" }}</p>
+							</div>
+							<hr>	
+							{% else %}				
+				{% endif %}
+		{% endfor %}
+<!-- 		<ul class="pager">
+		<li class="next">
+		<a href="..">Back</a>	
+		</li>
+		</ul> -->
+
+		<ul class="pager">
+		<li class="next">
+		<a href="/events/">{% if page.events %}{{ page.events }}{% else %}Upcoming events{% endif %}</a>
+		</li>
+		</ul>
+
+	</section>
+	<span class="caption text-muted">Image: 
+<a href="https://www.flickr.com/photos/wikidave/7487030330/" target="_blank">175/365+1 Motherboard 4</a>, 
+Dave Crosby</span>
+</div>

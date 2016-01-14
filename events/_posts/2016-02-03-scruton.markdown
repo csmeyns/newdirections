@@ -1,0 +1,18 @@
+---
+layout:   event
+title:    "Scruton Fest"
+subtitle:  "Celebrating the Work of Roger Scruton"
+date:     2016-02-03 12:00:00
+enddate:	2016-02-05
+author:   "New Directions"
+location:	"Faculty of Philosophy, Cambridge"
+header-img: "img/bgs/scruton.jpg"
+thumbnail: "scruton-thumbnail.png"
+---
+
+A celebration of the work of Roger Scruton. Details to follow.
+
+Event hashtag: #scrutonfest
+
+<span class="caption text-muted">Image: 
+<a href="https://www.flickr.com/photos/josarzulu/9721586516/in/photolist-fP4EYC-7A69fd-6U9VZC-8FBUHs-6J2y7Q-6dVose-5bo4dC-jZfwdW-2YswSa-bAHVRP-67i8Au-5biLjX-5YKpMF-oAQ5x4-8iAzC-8Lv1Kq-5bo3V1-5r2Bqd-4E1br8-5biK8n-8FBUAY-4d35Yu-4ks5Gu-dXanCi-5zAK54-5bo463-oBCzHr-5Z39f-6fL8Z6-4rZgrn-zucWTe-B1FaQ-mb2DN8-9fNFTL-B1F3x-n9pboN-baupj-7nsb2g-5efA2G-4DD5pX-yVvvs-4GdxHb-p7n4uY-8FBUDq-dEGVJY-6K2NCx-5YGWQH-oU6UbM-5bo2Hq-7EXDMw" target="_blank">Pencil forest (2013)</a>, Josar Photos</span>

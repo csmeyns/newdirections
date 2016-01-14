@@ -1,40 +1,49 @@
 
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
- 	<div class="text-center">
+	<div class="text-align-left">
 		<h1 class="title">{% if page.upcomingtitle %}{{ page.upcomingtitle }}{% else %}Upcoming{% endif %}</h1>
 	</div>
 	<section class="event-contrast">			
 		{% assign curDate = site.time | date: '%s' %}
-		{% for event in site.categories.events reversed limit:3 %}
+		{% for event in site.categories.events reversed %}
 			{% assign postStartDate = event.date | date: '%s' %}
-				{% if postStartDate >= curDate %}
-					<div class="post-preview">
-				 		<a href="{{ event.url | prepend: site.baseurl }}">
-					        <h2 class="post-title">{{ event.title }}</h2>
-					        {% if event.speaker %}
-					        	<h3 class="post-subtitle">{{ event.speaker }}</h3>
-					        {% endif %}
-				    	</a>
-				    	<p class="post-meta">{% if event.location %}At {{ event.location }}, {% else %}{% endif %}{{ event.date | date: "%A, %B %-d, %Y" }}</p>
-					</div>
+				{% if postStartDate <= curDate %}
+					{% assign LastNeww = forloop.index %}
+					{% else %}	
+							<div class="post-preview">
+						 		<a href="{{ event.url | prepend: site.baseurl }}">
+							        <h2 class="post-title">{{ event.title }}</h2>
+							        {% if event.speaker %}
+							        	<h3 class="post-subtitle">{{ event.speaker }}</h3>
+							        {% endif %}
+						    	</a>
+						    	<p class="post-meta">{% if event.location %}At {{ event.location }}, {% else %}{% endif %}{{ event.date | date: "%A, %-d %B %Y" }} {% if page.enddate %} - {{ page.enddate | date: "%-d %B %Y"}} {% else %}{% endif %}</p>
+							</div>
+							<hr>
 				{% endif %}
-			<hr>
+			
 		{% endfor %}
-		<ul class="pager">
-		<li class="next">
-		<a href="upcoming\">{% if page.moreup %}{{ page.moreup }}{% else %}More{% endif %}</a>	
-		</li>
 		</ul>
 	</section>
 </div>
 
+
+
+<!-- 		<ul class="pager">
+		<li class="next">
+		<a href="upcoming">{% if page.moreup %}{{ page.moreup }}{% else %}More upcoming{% endif %}</a>	
+		</li>
+		</ul>
+	</section>
+</div> -->
+
 <!-- Here a wee bit of white is nice. -->
-<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<!-- <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 	<br>
 </div>  			
   			
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-	<div class="text-center">
+	<div class="text-align-left">
 		<h1>{% if page.pasttitle %}{{ page.pasttitle }}{% else %}Past{% endif %}</h1>
 	</div>
   	<section class="event-contrast">			
@@ -58,10 +67,10 @@
 							<hr>
 						{% endif %}
 				{% endif %}
-		{% endfor %}
+		{% endfor %} -->
 		<ul class="pager">
 		<li class="next">
-		<a href="past\">{% if page.morepast %}{{ page.morepast }}{% else %}More{% endif %}</a>
+		<a href="past">{% if page.morepast %}{{ page.morepast }}{% else %}Past events{% endif %}</a>
 		</li>
 		</ul>
 	</section>
