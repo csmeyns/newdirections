@@ -1,0 +1,27 @@
+---
+layout:   event
+title:    "Philosophy of Mind A-level"
+subtitle: "Teachers' Workshop"
+date:     2015-09-11 12:00:00
+author:   "New Directions"
+location:	"Faculty of Philosophy, Cambridge"
+header-img: "img/bgs/teachers.jpg"
+thumbnail: "teachers-thumbnail.png"
+---
+
+A workshop with teachers of the Philosophy A-level curriculum in the UK, coorganised by <a href="http://people.ds.cam.ac.uk/rjh221/" target ="_blank">Richard Holton</a>. Presentations correspond to some of the main elements of the latest syllabus.
+
+
+Title | Speaker |   |  
+--- | --- | --- | ---
+*Substance Dualism* | Chris Meyns
+*Logical Behaviourism* | Richard Holton
+*Mind–brain Type Identity Theory* | Craig French
+*Functionalism* | Tim Crane
+*Property Dualism* | Alex Grzankowski 
+*Eliminative Materialism* | Raamy Majeed
+
+Event hashtag: #alevelphilmind
+
+<span class="caption text-muted">Image: 
+<a href="https://www.flickr.com/photos/9422878@N08/3081880768/in/photolist-5GkrMj-6vrSsm-KXue3-4EtP8F-7xaHU3-75xoQQ-4fMjUy-GdZLX-794hGE-cVP6R-3eMUto-76mPVs-zoHfdd-79V8d4-9wBV4g-9dnLFK-bA4ijV-78ZB8n-a7ZGGd-5uwouD-4YAPMw-51bjr-4GVqyv-8nKaYb-a5ZkaU-7Hx4dB-q2PtYc-9eoGN1-77ioG2-5Zztd5-54VSQQ-2crwN-8eu4XU-4PdrRb-9aXpaS-6o8pwT-jAAwuC-7v9miT-9eoGuC-ksNbHZ-2RN1dJ-4wg2x2-7AKMsJ-nvipJh-8MkZjg-nZKUs9-8oCwRk-78ZpS8-35W7U1-27TWfq" target="_blank">Color and Shape in Plastic and Chrome (2008)</a>, Bill Gracey</span>

@@ -2,8 +2,8 @@
 layout:     post
 title:      "Subjectivity, Agency and Social Cognition"
 subtitle:   "Challenges for Reductionist Accounts of the Mind"  
-startdate:     2015-10-02 12:00:00
-enddate:       2017-06-02 12:00:00
+startdate:     2016-01-01 12:00:00
+enddate:       2017-08-31 12:00:00
 author:     "New Directions"
 header-img: "img/bgs/social.jpg"
 thumbnail: "social-thumbnail.png"
