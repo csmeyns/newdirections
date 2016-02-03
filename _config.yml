@@ -13,7 +13,7 @@ instagram_username: newdirectionsproject
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+# highlighter: pygments
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
