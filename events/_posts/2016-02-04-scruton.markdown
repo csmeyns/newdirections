@@ -2,7 +2,7 @@
 layout:   event
 title:    "Scruton Fest"
 subtitle:  "Celebrating the Work of Roger Scruton"
-date:     2016-02-03 12:00:00
+date:     2016-02-04 12:00:00
 enddate:	2016-02-05
 author:   "New Directions"
 location:	"Faculty of Philosophy, Cambridge"
