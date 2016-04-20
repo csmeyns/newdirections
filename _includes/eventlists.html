@@ -5,6 +5,7 @@
 	</div>
 	<section class="event-contrast">			
 		{% assign curDate = site.time | date: '%s' %}
+
 		{% for event in site.categories.events reversed %}
 			{% assign postStartDate = event.date | date: '%s' %}
 				{% if postStartDate <= curDate %}
@@ -31,7 +32,11 @@
 
 <!-- 		<ul class="pager">
 		<li class="next">
+<<<<<<< Updated upstream
 		<a href="upcoming">{% if page.moreup %}{{ page.moreup }}{% else %}More upcoming{% endif %}</a>	
+=======
+		<a href="upcoming">{% if page.moreup %}{{ page.moreup }}{% else %}More{% endif %}</a>	
+>>>>>>> Stashed changes
 		</li>
 		</ul>
 	</section>
