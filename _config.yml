@@ -9,7 +9,7 @@ baseurl: http://www.newdirectionsproject.com
 twitter_username: studyofthemind
 facebook_username: newdirectionsmindproject
 instagram_username: newdirectionsproject
-future:true
+future: true
 
 # Build settings
 markdown: kramdown
