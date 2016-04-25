@@ -21,9 +21,9 @@ Registration is now open. Get your tickets <a href="http://nonphysicalism.eventb
   |  
 --- | --- 
 1:30 | Arrival 
-2:00 | <a href="http://web.calstatela.edu/faculty/dpitt/" target="_blank">David Pitt</a>
+2:00 | <a href="http://web.calstatela.edu/faculty/dpitt/" target="_blank">David Pitt: Acquaintance as Knowledge</a>
 3:30 | Tea
-4:30 | <a href="http://yetterchappell.net/Helen/" target="_blank">Helen Yetter Chappell</a>
+4:30 | <a href="http://yetterchappell.net/Helen/" target="_blank">Helen Yetter Chappell: There Is No Paradox of Phenomenal Judgment</a>
 6:00 | Reception
 
 ## Wednesday 25 May 
