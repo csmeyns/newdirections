@@ -65,6 +65,8 @@ Trinity Hall provides access information <a href="http://www.trinhall.cam.ac.uk/
 
 If you have questions relating to access or other special considerations, contact Trinity Hall's Disability Liaison Officer, Rosie Ince, ri246@trinhall.cam.ac.uk or 01223 332564.
 
+The New Directions community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
+
 Any questions? Get in touch with the organizers.
 
 Event hashtag: #nonphysicalism
