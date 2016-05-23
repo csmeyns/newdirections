@@ -21,9 +21,9 @@ Consciousness has been one of the stumbling blocks for physicalist theories of t
   |  
 --- | --- 
 1:30 | Arrival 
-2:00 | <a href="http://web.calstatela.edu/faculty/dpitt/" target="_blank">David Pitt: Acquaintance as Knowledge</a>
+2:00 | <a href="http://web.calstatela.edu/faculty/dpitt/" target="_blank">David Pitt</a>: Acquaintance as Knowledge
 3:30 | Tea
-4:30 | <a href="http://yetterchappell.net/Helen/" target="_blank">Helen Yetter Chappell: There Is No Paradox of Phenomenal Judgment</a>
+4:30 | <a href="http://yetterchappell.net/Helen/" target="_blank">Helen Yetter Chappell</a>: There Is No Paradox of Phenomenal Judgment (<a href="{{ site.baseurl }}/pdfs/handout_yetterchappell.pdf">handout</a>)
 6:00 | Reception
 
 ## Wednesday 25 May 
@@ -31,21 +31,21 @@ Consciousness has been one of the stumbling blocks for physicalist theories of t
  |  
 --- | --- 
 8:30 | Arrival
-9:00 | <a href="http://www.umu.se/sok/english/staff-directory?uid=brva0002&guiseId=246769&orgId=4864cb4234d0bf7c77c65d7f78ffca7ecaf285c7&depId=fd07f6b0985c3309cf2eb9a689fab86cd30c028a&name=Bram%20Vaassen" target="_blank">Bram Vaassen</a>: Mental Causation for Naturalist Dualists
+9:00 | <a href="http://www.umu.se/sok/english/staff-directory?uid=brva0002&guiseId=246769&orgId=4864cb4234d0bf7c77c65d7f78ffca7ecaf285c7&depId=fd07f6b0985c3309cf2eb9a689fab86cd30c028a&name=Bram%20Vaassen" target="_blank">Bram Vaassen</a>: Mental Causation for Naturalist Dualists (<a href="{{ site.baseurl }}/pdfs/handout_vaassen.pdf">handout</a>)
 10:00 | <a href="http://www.humanities.mcmaster.ca/~philos/people/grad.php" target="_blank">John Roman</a>: What is Synesthetic Color?
 11:00 | Coffee
 11:30 | <a href="http://charlessiewert.com/" target="_blank">Charles Siewert</a>: Experienced Thought and Self-Knowledge
 1:00 | Lunch
 2:00 | <a href="https://heddahasselmorch.wordpress.com/" target="_blank">Hedda Hassel Mørch</a>: IIT, Russellian Monism and the Combination Problem
 3:00 | Tea
-3:30 | <a href="https://virginia.academia.edu/DerekLam" target="_blank">Derek Lam</a>: The Magnitudes Beyond Our Mind
+3:30 | <a href="https://virginia.academia.edu/DerekLam" target="_blank">Derek Lam</a>: The Magnitudes Beyond Our Mind (<a href="{{ site.baseurl }}/pdfs/handout_lam.pdf">handout</a>)
 4:30 | <a href="https://www.dur.ac.uk/philosophy/staff/?id=11902" target="_blank">Clare MacCumhaill</a>: BIVS: Space and the Neglected Letter
 6:00 | Pub
 
 ## Thursday 26 May
 
 9:00 | Arrival
-9.30 | <a href="https://people.ceu.edu/howard_robinson" target="_blank">Howard Robinson</a>: Why Naturalism Without Physicalism Does Not Work For Consciousness
+9.30 | <a href="https://people.ceu.edu/howard_robinson" target="_blank">Howard Robinson</a>: Why Naturalism Without Physicalism Does Not Work For Consciousness (<a href="{{ site.baseurl }}/pdfs/handout_robinson.pdf">handout</a>)
 11.00 | Coffee
 11.30 | <a href="https://www.brown.edu/academics/philosophy/index.php?q=adam-pautz" target="_blank">Adam Pautz</a>: A Dilemma for Russellian Monists About Consciousness
 1:00 | Conference ends
