@@ -9,7 +9,7 @@ header-img: "img/bgs/nonphysical.jpg"
 thumbnail: "nonphysical-thumbnail.png"
 ---
 
-This workshop is now fully booked. Watch the livestream of the talks here: <a href="http://bit.ly/newdirectionstube" target="_blank">bit.ly/newdirectionstube</a>
+Watch the livestream of the talks here: <a href="https://www.youtube.com/playlist?list=PLAYwOkGwOE41PwbfPljEVi_LHBqWt_wuV" target="_blank">NewDirectionsTube</a>
 
 Consciousness has been one of the stumbling blocks for physicalist theories of the mind. Much effort has been dedicated to finding the physical basis of consciousness. But how does our knowledge of the mind connect with our knowledge of the brain? Physicalist theories have struggled to give satisfactory answers to this question. In this conference we will take a different turn, by investigating non-physicalist approaches to the mind. We will address questions such as: What ontological categories do conscious phenomena belong to? Does the consciousness of sensory experience differ from that involved in thought? How is it possible to investigate consciousness without assuming physicalism? We aim to open up the discussion by exploring alternatives to physicalism in the philosophical and scientific study of consciousness.
 
@@ -31,15 +31,19 @@ Consciousness has been one of the stumbling blocks for physicalist theories of t
  |  
 --- | --- 
 8:30 | Arrival
-9:00 | <a href="http://www.umu.se/sok/english/staff-directory?uid=brva0002&guiseId=246769&orgId=4864cb4234d0bf7c77c65d7f78ffca7ecaf285c7&depId=fd07f6b0985c3309cf2eb9a689fab86cd30c028a&name=Bram%20Vaassen" target="_blank">Bram Vaassen</a>: Mental Causation for Naturalist Dualists (<a href="{{ site.baseurl }}/pdfs/handout_vaassen.pdf">handout</a>)
-10:00 | <a href="http://www.humanities.mcmaster.ca/~philos/people/grad.php" target="_blank">John Roman</a>: What is Synesthetic Color?
+9:00 | <a href="http://www.umu.se/sok/english/staff-directory?uid=brva0002&guiseId=246769&orgId=4864cb4234d0bf7c77c65d7f78ffca7ecaf285c7&depId=fd07f6b0985c3309cf2eb9a689fab86cd30c028a&name=Bram%20Vaassen" target="_blank">Bram Vaassen</a>: Mental Causation for Naturalist Dualists (<a href="{{ site.baseurl }}/pdfs/handout_vaassen.pdf">handout</a>, <a href="https://speakerdeck.com/newdirectionsproject/bram-vaassen-mental-causation-for-naturalist-dualists" target="_blank">slides</a>)
+10:00 | <a href="http://www.humanities.mcmaster.ca/~philos/people/grad.php" target="_blank">John Roman</a>: What is Synesthetic Color? (<a href="https://speakerdeck.com/newdirectionsproject/john-roman-what-is-synesthetic-color" target="_blank">slides</a>)
 11:00 | Coffee
 11:30 | <a href="http://charlessiewert.com/" target="_blank">Charles Siewert</a>: Experienced Thought and Self-Knowledge
 1:00 | Lunch
-2:00 | <a href="https://heddahasselmorch.wordpress.com/" target="_blank">Hedda Hassel Mørch</a>: IIT, Russellian Monism and the Combination Problem
+2:00 | <a href="https://heddahasselmorch.wordpress.com/" target="_blank">Hedda Hassel Mørch</a>: IIT, Russellian Monism and the Combination Problem (<a href="https://speakerdeck.com/newdirectionsproject/hedda-hassel-morch-iit-russellian-monism-and-the-combination-problem" target="_blank">slides</a>) 
 3:00 | Tea
 3:30 | <a href="https://virginia.academia.edu/DerekLam" target="_blank">Derek Lam</a>: The Magnitudes Beyond Our Mind (<a href="{{ site.baseurl }}/pdfs/handout_lam.pdf">handout</a>)
+<<<<<<< HEAD
 4:30 | <a href="https://www.dur.ac.uk/philosophy/staff/?id=11902" target="_blank">Clare MacCumhaill</a>: BIVS: Space and the Neglected Letter
+=======
+4:30 | <a href="https://www.dur.ac.uk/philosophy/staff/?id=11902" target="_blank">Clare MacCumhaill</a>: BIVS: Space and the Neglected Letter (<a href="{{ site.baseurl }}/pdfs/handout_maccumhaill.pdf">handout</a>)
+>>>>>>> origin/gh-pages
 6:00 | Pub
 
 ## Thursday 26 May
