@@ -37,14 +37,12 @@ people:
     - title: home
       url: http://timcrane.com
 
-- name: Craig French
-  pic: 2
+- name: Laura Gow
+  pic: 6
   position: Postdoctoral Fellow
   social:
-    - title: twitter
-      url: https://twitter.com/EarlyModPhil
     - title: home
-      url: http://www.craigfrench.co.uk/
+      url: https://cambridge.academia.edu/LauraGow
 
 - name: Alex Grzankowski
   pic: 3
@@ -60,16 +58,32 @@ people:
     - title: home
       url: https://raamymajeed.wordpress.com
 
-- name: Chris Meyns
-  pic: 5
+- name: Alexander Greenberg
+  pic: 7
   position: Research Associate and Project Manager
   social:
-    - title: twitter
-      url: https://twitter.com/csmeyns
-    - title: linkedin
-      url: https://uk.linkedin.com/in/csmeyns
     - title: home
-      url: http://chrismeyns.xyz
+      url: http://alexandergreenberg.github.io
+      
+# - name: Craig French
+  # pic: 2
+  # position: Postdoctoral Fellow
+  # social:
+  #  - title: twitter
+  #    url: https://twitter.com/EarlyModPhil
+  #  - title: home
+  #    url: http://www.craigfrench.co.uk/
+  
+# - name: Chris Meyns
+  # pic: 5
+  # position: Research Associate and Project Manager
+  # social:
+  #  - title: twitter
+  #    url: https://twitter.com/csmeyns
+  #  - title: linkedin
+  #    url: https://uk.linkedin.com/in/csmeyns
+  #  - title: home
+  #    url: http://chrismeyns.xyz
 
 # Settings for sharing
     # Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
