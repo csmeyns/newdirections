@@ -79,6 +79,30 @@ formerpeople: # Info for new former project team members
     - title: home
       url: http://chrismeyns.xyz
 
+# collaborator:
+# - name: The Human Mind Project
+#   pic:
+#   position: School of Advance Study, University of London
+#   social:
+#     - title: twitter
+#       url: https://twitter.com/HumanMindDebate
+#     - title: home
+#       url: http://humanmind.ac.uk
+
+# - name: Centre for Philosophical Psychology
+#   pic:
+#   position: University of Antwerp
+#   social:
+#     - title: home
+#       url: http://uahost.uantwerpen.be/bence.nanay/
+
+# - name: Leverhulme Centre for the Future of Intelligence
+#   pic:
+#   position: University of Cambridge
+#   social:
+#     - title: home
+#       url: http://leverhulmecfi.org
+
 # Settings for sharing
     # Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
     # Add a tweet button    => provider : tweet
