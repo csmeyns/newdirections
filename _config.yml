@@ -81,7 +81,7 @@ formerpeople: # Info for new former project team members
     - title: home
       url: http://chrismeyns.xyz
 
-# collaborator:
+collaborator:
 # - name: The Human Mind Project
 #   pic:
 #   position: School of Advance Study, University of London
@@ -91,12 +91,12 @@ formerpeople: # Info for new former project team members
 #     - title: home
 #       url: http://humanmind.ac.uk
 
-# - name: Centre for Philosophical Psychology
-#   pic: 9
-#   position: University of Antwerp
-#   social:
-#     - title: home
-#       url: http://uahost.uantwerpen.be/bence.nanay/
+- name: Centre for Philosophical Psychology
+  pic: 9
+  position: University of Antwerp
+  social:
+    - title: home
+      url: http://uahost.uantwerpen.be/bence.nanay/
 
 # - name: Leverhulme Centre for the Future of Intelligence
 #   pic:
