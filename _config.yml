@@ -3,9 +3,8 @@ title: New Directions
 header-img: img/home-bg3.jpg
 email: newdirectionsphilmind@gmail.com
 description: "New Directions in the Study of the Mind Project."
-baseurl: 
-siteurl: http://www.newdirectionsproject.com
 baseurl: http://www.newdirectionsproject.com
+siteurl: http://www.newdirectionsproject.com
 twitter_username: studyofthemind
 facebook_username: newdirectionsmindproject
 instagram_username: newdirectionsproject
@@ -64,26 +63,21 @@ people:
   social:
     - title: home
       url: http://alexandergreenberg.github.io
-      
-# - name: Craig French
-  # pic: 2
-  # position: Postdoctoral Fellow
-  # social:
-  #  - title: twitter
-  #    url: https://twitter.com/EarlyModPhil
-  #  - title: home
-  #    url: http://www.craigfrench.co.uk/
-  
-# - name: Chris Meyns
-  # pic: 5
-  # position: Research Associate and Project Manager
-  # social:
-  #  - title: twitter
-  #    url: https://twitter.com/csmeyns
-  #  - title: linkedin
-  #    url: https://uk.linkedin.com/in/csmeyns
-  #  - title: home
-  #    url: http://chrismeyns.xyz
+
+formerpeople: # Info for new former project team members
+- name: Craig French
+  pic: 2
+  social:
+    - title: home
+      url: http://www.craigfrench.co.uk/
+
+- name: Chris Meyns
+  pic: 5
+  social:
+    - title: twitter
+      url: https://twitter.com/csmeyns
+    - title: home
+      url: http://chrismeyns.xyz
 
 # Settings for sharing
     # Sharing is for things like tweet, plusone, hn upvotes, like, linkedin
