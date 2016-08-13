@@ -84,7 +84,8 @@ formerpeople: # Info for new former project team members
 collaborator:
 - name: The Human Mind Project
   pic: 9
-  position: School of Advance Study, University of London
+  position: School of Advance Study
+  position: University of London
   social:
     - title: twitter
       url: https://twitter.com/HumanMindDebate
