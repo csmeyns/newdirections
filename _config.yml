@@ -43,19 +43,23 @@ people:
     - title: home
       url: http://lauragow.com
 
-- name: Alex Grzankowski
-  pic: 3
-  position: Lecturer
-  social:
-    - title: home
-      url: http://alexgrzankowski.com/
-
 - name: Raamy Majeed
   pic: 4
   position: Postdoctoral Fellow
   social:
+    - title: twitter
+      url: https://twitter.com/raamymajeed
     - title: home
       url: https://raamymajeed.wordpress.com
+      
+- name: Maarten Steenhagen
+  pic: 12
+  position: Lecturer
+  social:
+    - title: twitter
+      url: https://twitter.com/msteenhagen
+    - title: home
+      url: http://msteenhagen.github.io
 
 - name: Alexander Greenberg
   pic: 7
@@ -72,6 +76,12 @@ formerpeople: # Info for new former project team members
       url: https://twitter.com/craigafrench
     - title: home
       url: http://www.craigfrench.co.uk/
+
+- name: Alex Grzankowski
+  pic: 3
+  social:
+    - title: home
+      url: http://alexgrzankowski.com/
 
 - name: Chris Meyns
   pic: 5
