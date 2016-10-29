@@ -743,3 +743,84 @@ ul.share-buttons li{
 .subheading {
   margin-bottom: 20px;
 }
+/* The toggle class is here to a) make toggled parts default invisible, and b) to give them a bit of padding */
+
+.toggle {
+  display: none;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* This is to get rid of the iframe border in slide viewers */
+
+.slide {
+  frameBorder: 0;
+}
+
+/* This is to optimize the size of the slide viewer for different devices */
+
+@media (min-width: 320px) {
+  .slide {
+    width: 280px;
+    height: 210px;
+  }
+}
+@media (min-width: 360px) {
+  .slide {
+    width: 320px;
+    height: 240px;
+  }
+}
+@media (min-width: 400px) {
+  .slide {
+    width: 360px;
+    height: 270px;
+  }
+}
+@media (min-width: 550px) {
+  .slide {
+    width: 520px;
+    height: 390px;
+  }
+}
+@media (min-width: 650px) {
+  .slide {
+    width: 600px;
+    height: 450px;
+  }
+}
+@media (min-width: 700px) {
+  .slide {
+    width: 680px;
+    height: 510px;
+  }
+}
+@media (min-width: 992px) {
+  .slide {
+    width: 800px;
+    height: 600px;
+  }
+}
+@media (min-width: 1200px) {
+  .slide {
+    width: 1024px;
+    height: 768px;
+  }
+}
+
+/* This is to make the audio player smaller on portrait phone screens */
+
+@media (min-width: 300px) {
+  .audioplayer {
+    width: 160px;
+    height: 120px;
+  }
+}
+@media (min-width: 500px) {
+  .audioplayer {
+    width: 320px;
+    height: 240px;
+  }
+}
