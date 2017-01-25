@@ -20,14 +20,7 @@ people:
   social:
     - title: home
       url: https://sites.google.com/site/davewardphilosophy/
-<!--
-- name: Rosa Hardt
-  pic: hardt
-  position: Project Administrator
-  social:
-    - title: home
-      url: http://www.ed.ac.uk/profile/rosa-hardt
--->
+      
 ---
 
 
