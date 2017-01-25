@@ -34,4 +34,4 @@ There are different ways in which the epistemology of mind may bear upon the met
 The project will involve a series of seminars exploring different ways in which central topics in the epistemology of mind can be brought to bear on questions concerning the nature of mind. These will prepare the groundwork for a one-day international workshop on the metaphysical implications of the epistemology of mind. Philosophical study of the mind has too long ignored epistemological considerations. Our primary aim in this project is to explore an epistemology-first approach to understanding the nature of the mind.
 
 <span class="caption text-muted">Image:
-<a href="https://www.flickr.com/photos/wkc1/15892509110/in/photolist-qdnggL-gJfU8H-v9WS2U" target="_blank">Mirror</a>, Alex Chen</span>
+<a href="https://www.flickr.com/photos/wkc1/15892509110" target="_blank">Mirror</a>, Alex Chen</span>
