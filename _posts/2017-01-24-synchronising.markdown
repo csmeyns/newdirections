@@ -27,7 +27,6 @@ people:
 
 ---
 
-
 We seem to perceive the world as it is in the present moment, as a continuous and seamless stream of events, without interruption or delay. Yet scientists now know that each of our senses —vision, hearing, touch, and so on—works on slightly different timescales, with information from each sensory organ taking a different amount of time to process in different parts of the brain. How, then, do these different streams of information become combined, or integrated, into an apparently coherent and continuous experience, or is the continuity of experience itself a kind of illusion?
 
 In this project, we examine the implications of the latest philosophical and psychological research on multisensory perception, i.e. perception that involves more than one of the senses, for our understanding of how experience is structured over time. In particular, we aim to understand
