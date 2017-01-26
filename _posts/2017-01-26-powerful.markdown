@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "Powerful Qualities and the Metaphysics of Mind "
+subtitle:
+startdate:     2016-11-21 12:00:00
+enddate:       2017-08-30 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/powerful.jpg"
+thumbnail: "powerful-thumbnail.png"
+people:
+- name: Alexander Carruth
+  pic: carruth
+  position: Principal Investigator
+  social:
+    - title: home
+      url: https://www.dur.ac.uk/philosophy/staff/?id=10964
+
+---
+
+Understanding the relationship between the mind and the body is a vexed problem in philosophy. During the twentieth century, *physicalism* has been the dominant position. Physicalist views hold  that mental phenomena (such as beliefs, desires, experiences and emotions) are either nothing but physical phenomena (brain states, say), or are in some important sense made real by physical phenomena.   
+
+Physicalism promised to settle longstanding issues in the philosophy of mind, for instance, by illuminating the relationship between the mind and the body and by explaining how mental phenomena could have physical effects. However, physicalism has faced serious challenges, and little progress has been made in addressing these, leading some to declare that physicalism is on the wane (see Koons and Bealer, eds. 2010).  
+
+Increasing attention is being paid to alternative approaches to understanding the relationship between the mind and the physical world. Recently, new versions of *dualist* accounts of mind and body which hold that there is a fundamental distinction to be drawn between mental and physical phenomena, have been developed by Jonathan Lowe and William Hasker. There is also renewed interest in *panpsychism*, the view that everything — from trees to rocks to electrons and quarks — undergoes some form of conscious experience.  
+
+Neutral monism is the view that fundamentally, all phenomena are of one sort, and so, unlike dualist  approaches, it doesn’t postulate a deep divide between mental and physical phenomena. According to this view, however, reality is best characterised neither as fundamentally physical – as the physicalists would have it – nor as fundamentally mental – as ‘idealists’ would claim – but rather as neutral between the two.  
+
+This project will develop a novel variant of neutral monism which finds a robust metaphysical foundation in the ‘powerful qualities’ account of properties proposed by C. B. Martin and developed by John Heil. It will situate this position within the contemporary debate surrounding the relationship between the mind and the physical world.    
+
+Traditional versions of neutral monism as developed, for instance, by Bertrand Russell and William James, have been primarily driven by epistemic concerns—considerations about the sort of knowledge we can have about the mind and the physical world. One distinctive aspect of the view to be developed, compared to earlier versions of neutral monism, is that it is primarily motivated by metaphysical considerations about the nature of physicality and mentality on the one hand, and the nature of properties as ‘powerful qualities’ on the other.  
+
+<span class="caption text-muted">Image:
+<a href="https://www.flickr.com/photos/stawarz/4550934128" target="_blank">Alone at Sunrise</a>, Andrew Stawarz</span>
