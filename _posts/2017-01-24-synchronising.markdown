@@ -8,7 +8,7 @@ author:     "New Directions"
 header-img: "img/bgs/synchronising.jpg"
 thumbnail: "synchronising-thumbnail.png"
 people:
-- name: Fiona MacPherson
+- name: Fiona Macpherson
   pic: macpherson
   position: Principal Investigator
   social:
