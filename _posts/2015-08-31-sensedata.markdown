@@ -77,7 +77,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/pub/david-simmons/52/b8b/83a
 - name: Keith Wilson
-  pic: wilson
+  pic: wilson-2
   position: Affiliated Faculty
   social:
     - title: home
