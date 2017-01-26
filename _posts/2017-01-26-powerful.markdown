@@ -5,8 +5,8 @@ subtitle:
 startdate:     2016-11-21 12:00:00
 enddate:       2017-08-30 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/powerful.jpg"
-thumbnail: "powerful-thumbnail.png"
+header-img: "img/bgs/powerful-2.jpg"
+thumbnail: "powerful-2-thumbnail.png"
 people:
 - name: Alex Carruth
   pic: carruth
@@ -30,4 +30,4 @@ This project will develop a novel variant of neutral monism which finds a robust
 Traditional versions of neutral monism as developed, for instance, by Bertrand Russell and William James, have been primarily driven by epistemic concerns—considerations about the sort of knowledge we can have about the mind and the physical world. One distinctive aspect of the view to be developed, compared to earlier versions of neutral monism, is that it is primarily motivated by metaphysical considerations about the nature of physicality and mentality on the one hand, and the nature of properties as ‘powerful qualities’ on the other.  
 
 <span class="caption text-muted">Image:
-<a href="https://www.flickr.com/photos/stawarz/4550934128" target="_blank">Alone at Sunrise</a>, Andrew Stawarz</span>
+<a href="https://www.flickr.com/photos/stawarz/4656805727" target="_blank">Covehithe</a>, Andrew Stawarz</span>
