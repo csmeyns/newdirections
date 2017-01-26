@@ -17,7 +17,7 @@ people:
     - title: twitter
       url: https://twitter.com/ProfMacpherson
 - name: Keith Wilson
-  pic: wilson
+  pic: wilson-2
   position: Postdoctoral Investigator
   social:
     - title: home
