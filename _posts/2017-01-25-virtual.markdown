@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "The Philosophy of Augmented and Virtual Reality"
+subtitle:     
+startdate:     2017-04-01 12:00:00
+enddate:       2017-06-30 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/virtual.jpg"
+thumbnail: "virtual-thumbnail.png"
+people:
+- name: Fiona MacPherson
+  pic: macpherson
+  position: Principal Investigator
+  social:
+    - title: home
+      url: http://www.gla.ac.uk/schools/humanities/staff/fionamacpherson/
+    - title: twitter
+      url: https://twitter.com/ProfMacpherson
+- name: Neil McDonnell
+  pic: mcdonnell
+  position: Postdoctoral Investigator
+  social:
+    - title: home
+      url: http://www.neilmcdonnell.org
+
+---
+
+
+The advent of affordable and practical Augmented and Virtual Reality (AR/VR) is upon us. These technologies intervene on the senses in such a way as to either represent wholly different environments from the one the user is actually in (VR) or to represent the actual environment as having features or elements that our unaided senses do not represent (AR). The latter could be fictional elements like Pokemon in your garden, or fact-representing elements like a graphical temperature reading for a room. Our project will look to at the philosophical implications of realistic and immersive AR and VR in the context of the philosophy of mind.
+
+We will focus on three questions: First, what is the ontological status of elements represented in AR/VR? Second, does AR/VR represent a step change in our understanding of fictional entities? Third, does AR/VR technology present an insurmountable challenge to existing theories of intentionality?
+
+[The Centre for the Study of Perceptual Experience](http://www.gla.ac.uk/schools/humanities/research/philosophyresearch/cspe/) at Glasgow will host this project, and will bring considerable experience and expertise in the philosophy of mind and perception to bear through collaborative reading groups and workshops. This project will also build upon work in the area of AR/VR to be conducted at the Centre in early 2017.
+
+<span class="caption text-muted">Image:
+<a href="https://www.flickr.com/photos/jpmatth/782493648" target="_blank">Nintendo Virtual Boy</a>, Jason Matthews</span>
