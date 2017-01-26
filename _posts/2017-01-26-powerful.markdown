@@ -8,7 +8,7 @@ author:     "New Directions"
 header-img: "img/bgs/powerful.jpg"
 thumbnail: "powerful-thumbnail.png"
 people:
-- name: Alexander Carruth
+- name: Alex Carruth
   pic: carruth
   position: Principal Investigator
   social:
