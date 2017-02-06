@@ -16,10 +16,9 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 - How can our understanding of intentionality be informed by the psychological sciences? For example, how does the cognitive psychology's concept of ‘representation’ relate to our common sense understanding that thoughts and feelings are ‘about’ things in the world?
 
-- How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’ (Vorstellung), Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
+- How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’ (*Vorstellung*), Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
 
 # Speakers
-
   |  
 --- | ---
 -- | <a href="https://liberalarts.utexas.edu/philosophy/faculty/mm67248" target="_blank">Michelle Montague</a> (University of Texas)
