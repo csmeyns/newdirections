@@ -864,7 +864,7 @@ ul.share-buttons li{
   }
 }
 
-@media (min-width: 700px) {
+/* @media (min-width: 700px) {
   .map {
     width: 680px;
     height: 510px;
@@ -876,4 +876,4 @@ ul.share-buttons li{
     width: 800px;
     height: 600px;
   }
-}
+} */
