@@ -5,8 +5,8 @@ date:     2016-05-24 13:00:00
 enddate: 2016-05-26 14:00:00
 author:   "New Directions"
 location:	"Trinity Hall, Cambridge"
-header-img: "img/bgs/nonphysical.jpg"
-thumbnail: "nonphysical-thumbnail.png"
+header-img: "img/bgs/intentionality.jpg"
+thumbnail: "intentionality-thumbnail.png"
 ---
 
 Watch the livestream of the talks here: <a href="https://www.youtube.com/playlist?list=PLAYwOkGwOE41PwbfPljEVi_LHBqWt_wuV" target="_blank">NewDirectionsTube</a>
