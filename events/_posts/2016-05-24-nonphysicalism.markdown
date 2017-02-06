@@ -39,7 +39,6 @@ Consciousness has been one of the stumbling blocks for physicalist theories of t
 2:00 | <a href="https://heddahasselmorch.wordpress.com/" target="_blank">Hedda Hassel Mørch</a>: IIT, Russellian Monism and the Combination Problem (<a href="https://speakerdeck.com/newdirectionsproject/hedda-hassel-morch-iit-russellian-monism-and-the-combination-problem" target="_blank">slides</a>) 
 3:00 | Tea
 3:30 | <a href="https://virginia.academia.edu/DerekLam" target="_blank">Derek Lam</a>: The Magnitudes Beyond Our Mind (<a href="{{ site.baseurl }}/pdfs/handout_lam.pdf">handout</a>)
-4:30 | <a href="https://www.dur.ac.uk/philosophy/staff/?id=11902" target="_blank">Clare MacCumhaill</a>: BIVS: Space and the Neglected Letter
 4:30 | <a href="https://www.dur.ac.uk/philosophy/staff/?id=11902" target="_blank">Clare MacCumhaill</a>: BIVS: Space and the Neglected Letter (<a href="{{ site.baseurl }}/pdfs/handout_maccumhaill.pdf">handout</a>)
 6:00 | Pub
 
