@@ -5,7 +5,7 @@ date:     2016-05-24 13:00:00
 enddate: 2016-05-26 14:00:00
 author:   "New Directions"
 location:	"Trinity Hall, Cambridge"
-header-img: "img/bgs/intentionality.jpg"
+header-img: "img/bgs/nonphysical.jpg"
 thumbnail: "nonphysical-thumbnail.png"
 ---
 
@@ -19,7 +19,7 @@ Consciousness has been one of the stumbling blocks for physicalist theories of t
 
   |  
 --- | --- 
- --  | Arrival 
+1:30 | Arrival 
 2:00 | <a href="http://web.calstatela.edu/faculty/dpitt/" target="_blank">David Pitt</a>: Acquaintance as Knowledge
 3:30 | Tea
 4:30 | <a href="http://yetterchappell.net/Helen/" target="_blank">Helen Yetter Chappell</a>: There Is No Paradox of Phenomenal Judgment (<a href="{{ site.baseurl }}/pdfs/handout_yetterchappell.pdf">handout</a>)
