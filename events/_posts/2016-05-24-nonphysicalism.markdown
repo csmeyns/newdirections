@@ -1,6 +1,7 @@
 ---
 layout:   event
-title:    "Non-physicalist Views of Consciousness"
+title:    "Intentionality"
+subtitle: "New Directions"
 date:     2016-05-24 13:00:00
 enddate: 2016-05-26 14:00:00
 author:   "New Directions"
