@@ -10,7 +10,7 @@ header-img: "img/bgs/intentionality.jpg"
 thumbnail: "intentionality-thumbnail.png"
 ---
 
-Philosophical theorising about intentionality - the mind’s capacity to represent the world - has been dominated by attempts to reduce intentionality to physical or causal relations between thinkers and objects in the world. This focus on reduction has lead to a number of philosophically features of intentionality being ignored. This workshop offers a reorientation of the study of intentionality away from the reductive project, instead focusing on the phenomenon of intentionality itself and the role it plays in our mental life. Such a reorientation opens a number of potentially fruitful avenues for investigation:
+Philosophical theorising about intentionality - the mind’s capacity to represent the world - has been dominated by attempts to reduce intentionality to physical or causal relations between thinkers and objects in the world. This focus on reduction has led to a number of philosophically features of intentionality being ignored. This workshop offers a reorientation of the study of intentionality away from the reductive project, instead focusing on the phenomenon of intentionality itself and the role it plays in our mental life. Such a reorientation opens a number of potentially fruitful avenues for investigation:
 
 - What can be learnt about intentionality by focusing on the phenomenon from the first-person perspective? Is perceptual consciousness essentially intentional or representational? Is there a proprietary phenomenology associated with conscious thought?
 
