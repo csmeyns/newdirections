@@ -19,6 +19,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 - How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’ (*Vorstellung*), Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
 
 # Speakers
+
   |  
 --- | ---
 -- | <a href="https://liberalarts.utexas.edu/philosophy/faculty/mm67248" target="_blank">Michelle Montague</a> (University of Texas)
