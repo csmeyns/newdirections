@@ -19,7 +19,7 @@ Consciousness has been one of the stumbling blocks for physicalist theories of t
 
   |  
 --- | --- 
-  -  | Arrival 
+ --  | Arrival 
 2:00 | <a href="http://web.calstatela.edu/faculty/dpitt/" target="_blank">David Pitt</a>: Acquaintance as Knowledge
 3:30 | Tea
 4:30 | <a href="http://yetterchappell.net/Helen/" target="_blank">Helen Yetter Chappell</a>: There Is No Paradox of Phenomenal Judgment (<a href="{{ site.baseurl }}/pdfs/handout_yetterchappell.pdf">handout</a>)
