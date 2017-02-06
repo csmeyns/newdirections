@@ -34,6 +34,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 # Location
 
 Peterhouse, Cambridge
+
 12:30pm, 21st March—2pm, 23rd March, 2017
 
 <div style="text-align:center;"><iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9781.358672381231!2d0.1189358!3d52.2008746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x257dc448e96f74dd!2sPeterhouse!5e0!3m2!1sen!2suk!4v1486402263606" frameborder="0" style="border:0" allowfullscreen></iframe></div>
