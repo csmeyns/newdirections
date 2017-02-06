@@ -31,6 +31,8 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 -- | <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/golob/index.aspx" target="_blank">Sacha Golob</a> (King's College London)
 -- | <a href="https://www.unm.edu/~pmliving/" target="_blank"> Paul Livingston</a> (University of New Mexico)
 
+Watch this space closer to the date for a finalised programme.
+
 # Location
 
 The conference will take place at <a href="https://www.pet.cam.ac.uk" target="_blank">Peterhouse</a>, Cambridge, from 12:30pm, 21st March to 2pm, 23rd March, 2017.
