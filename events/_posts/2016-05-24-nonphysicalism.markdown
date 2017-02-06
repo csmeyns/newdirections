@@ -28,7 +28,7 @@ Consciousness has been one of the stumbling blocks for physicalist theories of t
 
 ## Wednesday 25 May 
 
- |  
+  |  
 --- | --- 
 8:30 | Arrival
 9:00 | <a href="http://www.umu.se/sok/english/staff-directory?uid=brva0002&guiseId=246769&orgId=4864cb4234d0bf7c77c65d7f78ffca7ecaf285c7&depId=fd07f6b0985c3309cf2eb9a689fab86cd30c028a&name=Bram%20Vaassen" target="_blank">Bram Vaassen</a>: Mental Causation for Naturalist Dualists (<a href="{{ site.baseurl }}/pdfs/handout_vaassen.pdf">handout</a>, <a href="https://speakerdeck.com/newdirectionsproject/bram-vaassen-mental-causation-for-naturalist-dualists" target="_blank">slides</a>)
