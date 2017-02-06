@@ -822,3 +822,58 @@ ul.share-buttons li{
     height: 240px;
   }
 }
+
+/* This introduces the map class, like the slide class but more for maps */
+
+.map {
+  text-align: center;
+}
+
+@media (min-width: 320px) {
+  .map {
+    width: 280px;
+    height: 210px;
+  }
+}
+
+@media (min-width: 360px) {
+  .map {
+    width: 320px;
+    height: 240px;
+  }
+}
+
+@media (min-width: 400px) {
+  .map {
+    width: 360px;
+    height: 270px;
+  }
+}
+
+@media (min-width: 550px) {
+  .map {
+    width: 520px;
+    height: 390px;
+  }
+}
+
+@media (min-width: 650px) {
+  .map {
+    width: 600px;
+    height: 450px;
+  }
+}
+
+@media (min-width: 700px) {
+  .map {
+    width: 680px;
+    height: 510px;
+  }
+}
+
+@media (min-width: 992px) {
+  .map {
+    width: 800px;
+    height: 600px;
+  }
+}
