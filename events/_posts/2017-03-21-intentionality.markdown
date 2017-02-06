@@ -16,7 +16,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 - How can our understanding of intentionality be informed by the psychological sciences? For example, how does the cognitive psychology's concept of ‘representation’ relate to our common sense understanding that thoughts and feelings are ‘about’ things in the world?
 
-- How can the history of intentionality and of related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’ (Vorstellung), Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
+- How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’ (Vorstellung), Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
 
 # Speakers
 
@@ -24,7 +24,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 --- | ---
 -- | <a href="https://sites.google.com/site/michelleimontague/" target="_blank">Michelle Montague</a>
 -- | <a href="http://www.susannaschellenberg.org/file/Home.html" target="_blank">Susanna Schellenberg</a>
--- |  href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a>
+-- | <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a>
 -- | <a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>
 -- | <a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>
 -- | <a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>
