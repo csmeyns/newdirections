@@ -31,6 +31,10 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 -- | <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/golob/index.aspx" target="_blank">Sacha Golob</a> (King's College London)
 -- | <a href="https://www.unm.edu/~pmliving/" target="_blank"> Paul Livingston</a> (University of New Mexico)
 
+# Location
+
+<iframe class="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9781.358672381231!2d0.1189358!3d52.2008746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x257dc448e96f74dd!2sPeterhouse!5e0!3m2!1sen!2suk!4v1486402263606" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 # Registration
 
 Registration is free. Everyone is welcome, though spaces are limited. You can register using the form below.
