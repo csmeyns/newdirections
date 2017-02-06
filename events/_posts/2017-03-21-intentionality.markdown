@@ -2,8 +2,8 @@
 layout:   event
 title:    "Intentionality"
 subtitle: "New Directions"
-date:     2017-03-21 13:00:00
-enddate: 2017-03-03-23 14:00:00
+date:     2017-03-21 12:30:00
+enddate: 2017-03-23 14:00:00
 author:   "New Directions"
 location:	"Peterhouse, Cambridge"
 header-img: "img/bgs/intentionality.jpg"
