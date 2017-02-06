@@ -27,7 +27,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 -- | <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a>
 -- | <a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>
 -- | <a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>
--- | <a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>
+-- | <a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Daniel Brigham</a>
 -- | <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/golob/index.aspx" target="_blank">Sacha Golob</a>
 -- | <a href="https://www.unm.edu/~pmliving/" target="_blank"> Paul Livingston</a>
 
