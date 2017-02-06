@@ -39,7 +39,7 @@ Please register ???
 
 The conference will take place???
 
-[/# Access
+<!-- Access
 
 Access information about Peterhouse can be found <a href="http://www.disability.admin.cam.ac.uk/access-around-university/access-colleges/peterhouse" target="_blank">here</a>. Some core points:
 
@@ -54,7 +54,7 @@ Access information about Peterhouse can be found <a href="http://www.disability.
 
 If you have questions relating to access or other special considerations, contact POSITION?, NAME?, email? or phone?.
 
-The New Directions community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form./]
+The New Directions community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. -->
 
 Any questions? Get in touch by <a href="mailto:newdirectionsmindproject@gmail.com">email</a>.
 
