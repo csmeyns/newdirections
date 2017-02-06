@@ -1,8 +1,8 @@
 ---
 layout:   event
 title:    "Non-physicalist Views of Consciousness"
-date:     2017-05-24 13:00:00
-enddate: 2017-05-26 14:00:00
+date:     2016-05-24 13:00:00
+enddate: 2016-05-26 14:00:00
 author:   "New Directions"
 location:	"Trinity Hall, Cambridge"
 header-img: "img/bgs/nonphysical.jpg"
