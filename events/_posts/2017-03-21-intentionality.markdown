@@ -14,7 +14,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 - What can be learnt about intentionality by focusing on the phenomenon from the first-person perspective? Is perceptual consciousness essentially intentional or representational? Is there a proprietary phenomenology associated with conscious thought?
 
-- How can our understanding of intentionality be informed by the psychological sciences? For example, how does the cognitive psychology's concept of ‘representation’ relate to our common sense understanding that thoughts and feelings are ‘about’ things in the world?
+- How can our understanding of intentionality be informed by the psychological sciences? For example, how does cognitive psychology's concept of ‘representation’ relate to our common sense understanding that thoughts and feelings are ‘about’ things in the world?
 
 - How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’ ('*Vorstellung*'), Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
 
