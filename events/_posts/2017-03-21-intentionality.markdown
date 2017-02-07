@@ -45,22 +45,18 @@ Registration is free. Everyone is welcome, though spaces are limited. You can re
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=31534093322&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
 
-<!-- Access
+# Access
 
 Access information about Peterhouse can be found <a href="http://www.disability.admin.cam.ac.uk/access-around-university/access-colleges/peterhouse" target="_blank">here</a>. Some core points:
 
-- The Lecture Theatre and the Lubbock room (where the conference will be held): Both rooms have ramped access. The Lecture Theatre has four designated wheelchair spaces.
-- Parking: Two disabled bays outside the Lecture Theatre, entered off Little St Mary's Lane.
-- College grounds and buildings: Level Access?
-- Accessible toilets?
-- Assistance dogs welcome?
-- Large print information on request?
-- Lights around college grounds turn on automatically at dusk? Public areas generally well lit?
-- Induction loops and noise?
+- The Lecture Theatre and the Lubbock room (where the conference will be held) both have ramped access. The Lecture Theatre has four designated wheelchair spaces.
+- Parking: Peterhouse has limited (1-2) disabled parking spaces. Please get in touch by <a href="mailto:newdirectionsmindproject@gmail.com">email</a> if you require one of these spaces. 
+- Accessible toilets: Accessible toilets (via lifts) in Whittle Building and F Staircase, both accessible from The Lecture Theatre.
+- Assistance dogs are welcome.
+- Large print information on request.
+- Induction loop in Lecture Theatre.
 
-If you have questions relating to access or other special considerations, contact POSITION?, NAME?, email? or phone?.
-
-The New Directions community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form. -->
+The New Directions community is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of participants in any form.
 
 Any questions? Get in touch by <a href="mailto:newdirectionsmindproject@gmail.com">email</a>.
 
