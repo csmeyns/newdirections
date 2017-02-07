@@ -10,11 +10,11 @@ header-img: "img/bgs/intentionality.jpg"
 thumbnail: "intentionality-thumbnail.png"
 ---
 
-Philosophical theorising about intentionality - the mind’s capacity to represent the world - has been dominated by attempts to reduce intentionality to physical or causal relations between thinkers and objects in the world. This focus on reduction has led to a number of philosophically features of intentionality being ignored. This workshop offers a reorientation of the study of intentionality away from the reductive project, instead focusing on the phenomenon of intentionality itself and the role it plays in our mental life. Such a reorientation opens a number of potentially fruitful avenues for investigation:
+Philosophical theorising about intentionality - the mind’s capacity to represent the world - has been dominated by attempts to reduce intentionality to physical or causal relations between thinkers and objects. This focus on reduction has led to a number of philosophically interesting features of intentionality being ignored. This workshop offers a reorientation of the study of intentionality away from the reductive project, instead focusing on the phenomenon of intentionality itself and the role it plays in our mental life. Such a reorientation opens up a number of potentially fruitful avenues for investigation:
 
 - What can be learnt about intentionality by focusing on the phenomenon from the first-person perspective? Is perceptual consciousness essentially intentional or representational? Is there a proprietary phenomenology associated with conscious thought?
 
-- How can our understanding of intentionality be informed by the psychological sciences? For example, how does cognitive psychology's concept of ‘representation’ relate to our common sense understanding that thoughts and feelings are ‘about’ things in the world?
+- How can our understanding of intentionality be informed by the psychological sciences? For example, how does cognitive psychology's concept of ‘representation’ relate to our common sense understanding of how thoughts and feelings are ‘about’ things in the world?
 
 - How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’, Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
 
