@@ -20,6 +20,12 @@ people:
   social:
     - title: home
       url: https://sites.google.com/site/davewardphilosophy/
+- name: Rosa Hardt
+  pic: hardt-2
+  position: Research Assistant
+  social:
+    - title: home:
+      url: http://www.ed.ac.uk/profile/rosa-hardt
 ---
 
 Our experience of the world presents itself to us as a structured whole. Nonetheless, most empirical and theoretical work on perception and consciousness proceeds by focusing on artificially isolated parts of this whole. For example, it is common to study colour sensations in isolation, sidelining the fact that colours are most often perceived as properties of solid, meaningful objects, situated in a complex perceptible environment, and so experienced in the context of a multitude of other sensed qualities. Is it possible to study sensation without alienating it from this complex context? What are the theoretical and empirical consequences of treating experience as a structured whole rather than a patchwork of unpluggable sensory elements? How can this structured experience be described and studied rigorously? As a means of investigating these questions, this project will explore the relationship between two influential movements that aimed to study experience as an integrated whole, rather than decomposing it artificially: gestalt psychology and phenomenology.
