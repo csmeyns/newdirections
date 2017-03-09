@@ -20,20 +20,6 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 # Speakers
 
-<script type="text/javascript"> //This script is a modification of the one from here: http://www.webdeveloper.com/forum/showthread.php?77389-Expand-Collapse-Paragraph
-function toggleMe(a){
-var e=document.getElementById(a);
-if(!e)return true;
-if(e.style.display=="block"){
-e.style.display="none"
-}
-else{
-e.style.display="block"
-}
-return true;
-}
-</script>
-
   |  
 --- | ---
 -- | <a href="https://liberalarts.utexas.edu/philosophy/faculty/mm67248" target="_blank">Michelle Montague</a> (University of Texas)
