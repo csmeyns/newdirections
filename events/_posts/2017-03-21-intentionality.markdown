@@ -18,10 +18,15 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 - How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’, Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
 
-# Speakers
+# Programme
+
+## Tuesday 21st March
 
   |  
 --- | ---
+12:30 | Registration and Lunch
+1:30 | Tim Crane: Opening Remarks
+2:00 | <a href="http://www.susannaschellenberg.org/file/Home.html" target="_blank">Susanna Schellenberg</a> (Rutgers): <a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Intentionality and Mental Capacities</a> <span id="para1">I argue that intentionality is best understood in terms of engaging in a mental activity, namely, the mental activity of employing mental capacities. More specifically, I argue that being in an intentional state is a matter of employing mental capacities in virtue of which we represent our environment as being a certain way. These mental capacities can take the form of concepts or low-level discriminatory capacities as they are employed in perception. I show how this way of analyzing intentionality allows for a counterfactual analysis of the mind.</span>
 -- | <a href="https://liberalarts.utexas.edu/philosophy/faculty/mm67248" target="_blank">Michelle Montague</a> (University of Texas)
 -- | <a href="http://www.susannaschellenberg.org/file/Home.html" target="_blank">Susanna Schellenberg</a> (Rutgers)
 -- |  <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a> (King's College London)
