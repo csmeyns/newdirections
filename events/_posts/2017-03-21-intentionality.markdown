@@ -23,6 +23,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 For talk abstracts, click on the titles.
 
 ## Tuesday 21st March
+
   |  
 --- | ---
 12:30 | Registration and Lunch
@@ -33,6 +34,7 @@ For talk abstracts, click on the titles.
 5:30 | Wine reception
 
 ## Wednesday 22nd March
+
   |  
 --- | ---
 9:30 | <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/golob/index.aspx" target="_blank">Sacha Golob</a>: <a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">*Kant, Perception and Disjunctivism*</a><span id="para3" class="toggle">Over the last thirty years, Kant’s work on perception has been successively read as endorsing conceptualist representationalism, non-conceptualist representationalism and naïve realism. I argue that, for all the ground covered, these readings are either partial or mistaken. In the first half of the paper, I review some of the key textual issues, in particular the first Critique’s stance on veridicality conditions and the Anthropology’s account of imagination. In the second half, I argue that this evidence supports a new account of Kant’s relationship to contemporary disjunctivism, one closely tied to his broader theory of mind.</span>
@@ -44,6 +46,7 @@ For talk abstracts, click on the titles.
 4:00 | <a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: <a href="javascript:;" onclick="return toggleMe('para6')" value="Toggle">*The Classificatory Conception of Propositional Content*</a><span id="para6" class="toggle">What does it mean for a mental state or an utterance to “have propositional content”?  Here I contrast three different answers to this question, which I will call the Fregean, Russellian, and classificatory conceptions of propositional content.  According to the Fregean conception, propositions are the primary bearers of representational features and truth-conditions, and mental states and utterances inherit these features from propositions.  According to the Russellian conception, propositions are what we represent in our mental states and utterances — they are what these states and utterances are directed at.  According to the classificatory conception, propositions are classificatory devices, which we use to identify and individuate our mental states and utterances.  After raising problems for the Fregean and Russellian approaches I will explore the consequences of the classificatory conception for our view of propositional attitudes and speech acts.</span>
 
 ## Thursday 23rd March
+
   |  
 --- | ---
 9:30 | <a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>: <a href="javascript:;" onclick="return toggleMe('para7')" value="Toggle">*New Directions on the Narrow Direction Problem*</a><span id="para7" class="toggle">One of the central objections to Russell's multiple relation theory of judgement is that it cannot distinguish between different judgements involving non-symmetric relations. This has come to be known as the narrow direction problem. I want to diagnose why this problem arises for Russell's view, explain what he can say in response to it, and then look at whether the problem arises, and the response works, when it comes to other theories of judgement.</span>
