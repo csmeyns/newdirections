@@ -5,7 +5,7 @@ subtitle:   "Space, Experience and Solipsism"
 startdate:     2016-01-02 12:00:00
 enddate:       2016-03-02 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/coloring-2.jpg"
+header-img: "img/bgs/geometry.jpg"
 thumbnail: "geometry-thumbnail.png"
 people:
 - name: Clare Mac Cumhaill 
