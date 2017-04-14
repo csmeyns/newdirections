@@ -9,7 +9,7 @@ header-img: "img/bgs/darwin.jpg"
 thumbnail: "darwin-thumbnail.png"
 people:
 - name: Cecily Whiteley
-  pic: whiteley-2
+  pic: whiteley-3
   position: Principal Investigator
   social:
     - title: home
