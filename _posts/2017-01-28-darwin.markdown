@@ -1,0 +1,32 @@
+---
+layout:     post
+title:      "Towards the Naturalisation of Consciousness"
+subtitle:   "Is There a Place for Non-Physicalist Consciousness Within a Darwinian Framework?"  
+startdate:     2016-10-01 12:00:00
+enddate:       2017-08-30 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/darwin.jpg"
+thumbnail: "darwin-thumbnail.png"
+people:
+- name: Cecily Whiteley
+  pic: whiteley
+  position: Principal Investigator
+  social:
+    - title: home
+      url: https://kclpure.kcl.ac.uk/portal/en/persons/cecily-whiteley(800cbce0-8faf-4332-ad06-01aa445d7a5c).html
+    - title: twitter
+      url: https://twitter.com/cecilymwhiteley
+
+---
+
+
+As part of the scientific approach to its study, successful naturalisation of consciousness requires an account of consciousness’ biological functions. Firstly, naturalisation requires a theory of consciousness’ ‘Cummins function’, an account of what consciousness *does*. Secondly, naturalisation of consciousness requires an account of its evolutionary function, of why and *how* it evolved. Search for a theory of consciousness’ Cummins function has been the primary concern of those studying consciousness neuroscientifically, with several neurobiological models currently dominating the scientific literature, while the search for consciousness’ evolutionary function has largely been viewed with skepticism. This is due to to the controversy and dispute around the nature of evolutionary theory itself, and the dubious adaptationist theories that it often gives rise to.
+
+Speculative accounts of consciousness’ evolutionary function ought to be avoided. However, the search for an evolutionary function of consciousness brings attention to a larger task which needs to be addressed by those who recognise the need to explore alternative non­physicalist accounts of consciousness while wishing to retain a scientific and naturalistic outlook. If a non­physicalist account of consciousness is to be viable as a naturalistic hypothesis it needs to be understood within the broad constraints that evolutionary theory places on a proper scientific account of any phenomena. Namely, that whatever we are, whatever the metaphysical status of consciousness, we are products of evolution by natural selection.
+
+In his controversial book, Thomas Nagel provides an argument against the possibility of such a project. The thought is that consciousness’ resistance to physical explanation has profound implications for the evolutionary process that gave rise to it. The failure of psychophysical reduction, Nagel argues, demands that we replace the neo­-Darwinian worldview with a teleological explanation for our existence.
+
+This project proposes to do three things. Firstly, it aims to identify a new criterion of feasibility that the non­-physicalist must meet if non-­physicalist consciousness, broadly understood, is to be viable as a naturalistic hypothesis. An account needs to be given of just how consciousness, if it were to be understood as ontologically irreducible and non­physical, fits into the widely accepted neo­-Darwinian framework. Secondly, it argues that this criterion can be met if a “causal account” of conscious evolution can be provided and defended. While non­-physicalist consciousness does demand that evolutionary theory be revised in a significant way, this amounts to supplementation and extension of its existing principles rather than a radical revision a la Nagel. Finally, the project proposes to put forward the beginnings of a causal account and synthesise its broad axioms with recent developments in neuro­-evolutionary theory.
+
+<span class="caption text-muted">Image:
+<a href="https://www.flickr.com/photos/islandconservation/7938113336/" target="_blank">Galapagos Tortoise</a>, Island Conservation, 2012</span>
