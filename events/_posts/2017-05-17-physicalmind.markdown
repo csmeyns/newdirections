@@ -30,6 +30,4 @@ The lecture will take place in the Lucia Windsor Room, <a href="https://www.newn
 
 Any questions? Get in touch by <a href="mailto:newdirectionsmindproject@gmail.com">email</a>.
 
-Event hashtag: #PhysicalMind?
-
 <span class="caption text-muted">Image adapted from <a href="https://commons.wikimedia.org/wiki/File:Descartes;_The_Nervous_System._Diagram_of_the_brain_Wellcome_L0006584.jpg" target="_blank">The Nervous System: Diagram of the brain and the pineal gland</a>, from Descartes's <em>De Homine</em>, Wellcome Library.</span>
