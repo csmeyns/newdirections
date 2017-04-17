@@ -1,7 +1,6 @@
 ---
 layout:   event
-title:    "Intentionality"
-subtitle: "New Directions"
+title:    "Intentionality: New Directions"
 date:     2017-03-21 12:30:00
 enddate: 2017-03-23 14:00:00
 author:   "New Directions"
