@@ -6,7 +6,7 @@ date:     2017-05-17 17:00:00
 enddate: 2017-05-17 18:30:00
 author:   "New Directions"
 location:	"Newnham College, Cambridge"
-header-img: "img/bgs/pineal-small.jpg"
+header-img: "img/bgs/pineal.jpg"
 ---
 
 As part of the Tim Crane will give a public lecture. All are welcome, though places are limited. Please register using the form below. A wine reception will follow.
@@ -23,7 +23,7 @@ Form
 
 The lecture will take place in the Lucia Windsor Room, <a href="https://www.newn.cam.ac.uk" target="_blank">Newnham College</a>, Cambridge, 17:00-18:30pm, 17th May 2017.
 
-<div style="text-align:center;"><iframe class="map" src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5083.931439711971!2d0.10679156446617138!3d52.19851951668053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d870af8969498b%3A0xdb583a9d29181ec8!2sNewnham+College%2C+University+of+Cambridge!5e0!3m2!1sen!2suk!4v1492452285367" frameborder="0" style="border:0" allowfullscreen></iframe>
+<div style="text-align:center;"><iframe class="map" src=""https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5083.931439711971!2d0.10679156446617138!3d52.19851951668053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d870af8969498b%3A0xdb583a9d29181ec8!2sNewnham+College%2C+University+of+Cambridge!5e0!3m2!1sen!2suk!4v1492452285367" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 
 # Access
 
