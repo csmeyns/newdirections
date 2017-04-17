@@ -10,7 +10,9 @@ header-img: "img/bgs/pineal.jpg"
 
 As part of the New Directions project, Tim Crane, the Knightbridge Professor of Philosophy, will giving a public lecture.
 
-All are welcome, though places are limited. Please register using the form below. A reception will follow.
+This event will be followed by a reception.
+
+All are welcome, though places are limited. Please register using the form below.
 
 # Abstract
 
