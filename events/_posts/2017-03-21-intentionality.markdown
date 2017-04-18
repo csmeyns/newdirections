@@ -44,7 +44,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para2" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456831/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2456831/2456837.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/golob.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/gow.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -97,20 +97,19 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
 <a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>: <em>New Directions on the Narrow Direction Problem</em> 
-(<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle"><u>Abstract</u></a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle"><u>Audio & Handout</u></a>)
+(<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle"><u>Abstract</u></a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle"><u>Audio</u></a>)
 
 <span id="para13" class="toggle">One of the central objections to Russell’s multiple relation theory of judgement is that it cannot distinguish between different judgements involving non-symmetric relations. This has come to be known as the narrow direction problem. I want to diagnose why this problem arises for Russell’s view, explain what he can say in response to it, and then look at whether the problem arises, and the response works, when it comes to other theories of judgement.</span>
 
 <div id="para14" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457078/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457078/2457084.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/brigham.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
 <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a>: <em>Absence made Present: The Representation of Time in Perceptual Imagination</em> 
-(<a href="javascript:;" onclick="return toggleMe('para15')" value="Toggle"><u>Abstract</u></a>) (<a href="javascript:;" onclick="return toggleMe('para16')" value="Toggle"><u>Slides & Audio</u></a>)
+(<a href="javascript:;" onclick="return toggleMe('para15')" value="Toggle"><u>Abstract</u></a>) (<a href="javascript:;" onclick="return toggleMe('para16')" value="Toggle"><u>Audio & Slides</u></a>)
 
 <span id="para15" class="toggle">My aim in this talk is to articulate and explain some distinctive features of the intentionality of perceptual imagination. I take as my starting point some remarks that Sartre makes about the phenomenology of perceptual imagination in The Imaginary: a phenomenological psychology of the imagination. Sartre suggests there that in the case of an “imaging consciousness” of an object, there is a respect in which what is absent is “made present” and yet given as absent. I shall raise some puzzles about that proposal and outline a solution to them. I shall be suggesting that the solution lies in explaining what is correct in Sartre’s further suggestion that “the time of the object as imaged is an irreality”. I shall argue that the “irreality” of time in imagination can be explained by the proposal that perceptual imagination is a phenomenally conscious act of ‘spontaneity’ that is the representation of the phenomenology of a ‘receptive’ occurrence in the stream of consciousness. That proposal can accommodate and explain how an act of perceptual imagination can be the representation of a temporal present, the temporal location of which is not determined by the temporal location of the act of imagining. That feature of the intentionality of imagination can in turn can accommodate and explain what is correct in the Sartrean suggestion that in perceptual imagination what is absent is “made present” and yet given as absent.</span>
 
