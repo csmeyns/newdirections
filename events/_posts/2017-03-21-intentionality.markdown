@@ -25,7 +25,7 @@ You can find audio and slides from the workshop's talks here.
 <a href="http://lauragow.com" target="_blank">Laura Gow</a>: <em>Perceptual Experience: Non-relationalism without Adverbialism</em> 
 (<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para2')" value="Toggle">Audio & Slides</a>)
 
-<p><span id="para1" class="toggle">Representationalism is often marketed as being the position of choice for anyone seeking a physicalist account of perceptual experience, particularly when hallucinations and illusions are included among the experiences which our account is required to explain. This view has recently come under attack, and in the first part of this paper I offer an explanation of why standard representationalism is fundamentally unable to meet the demands of a genuinely physicalist metaphysics. Ultimately, this is due to its failure to move away from a relational conception of perceptual experience. I consider the existing non-relational views which have arisen as a response to the metaphysical objections to standard representationalism, and point out some problems with them. In most cases, the problems are due to the views in question being modelled on adverbialism. I present a new non-relational view of perceptual experience which escapes these problems.</span></p>
+<span id="para1" class="toggle">Representationalism is often marketed as being the position of choice for anyone seeking a physicalist account of perceptual experience, particularly when hallucinations and illusions are included among the experiences which our account is required to explain. This view has recently come under attack, and in the first part of this paper I offer an explanation of why standard representationalism is fundamentally unable to meet the demands of a genuinely physicalist metaphysics. Ultimately, this is due to its failure to move away from a relational conception of perceptual experience. I consider the existing non-relational views which have arisen as a response to the metaphysical objections to standard representationalism, and point out some problems with them. In most cases, the problems are due to the views in question being modelled on adverbialism. I present a new non-relational view of perceptual experience which escapes these problems.</span>
 
 <div id="para2" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456831/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
@@ -34,6 +34,7 @@ You can find audio and slides from the workshop's talks here.
 </div>
 </div>
 
+<div style="background-color: #F5F5F5; padding: 8px;">
 <a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: *Experiential Pluralism and Mental Kinds* 
 (<a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">Abstract</a>) <!--(<a href="javascript:;" onclick="return toggleMe('para4')" value="Toggle">Handout</a>)-->
 
@@ -42,7 +43,9 @@ You can find audio and slides from the workshop's talks here.
 <!--<div id="para4" class="toggle">
 <p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/spener.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div> -->
+</div>
 
+<div style="background-color: #F5F5F5; padding: 8px;">
 <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/golob/index.aspx" target="_blank">Sacha Golob</a>: *Kant, Perception and Disjunctivism* 
 (<a href="javascript:;" onclick="return toggleMe('para5')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para6')" value="Toggle">Audio & Handout</a>)
 
@@ -53,7 +56,9 @@ You can find audio and slides from the workshop's talks here.
 <p><a href="https://downloads.sms.cam.ac.uk/2456842/2456848.mp3" target="_blank" download>Download Audio</a></p>
 <p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/golob.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
+</div>
 
+<div style="background-color: #F5F5F5; padding: 8px;">
 <a href="https://www.unm.edu/~pmliving/" target="_blank">Paul Livingston</a>: *Presentation and the Ontology of Consciousness* 
 (<a href="javascript:;" onclick="return toggleMe('para7')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para8')" value="Toggle">Audio & Slides</a>)
 
@@ -64,7 +69,9 @@ You can find audio and slides from the workshop's talks here.
 <p><a href="https://downloads.sms.cam.ac.uk/2457025/2457031.mp3" target="_blank" download>Download Audio</a></p>
 <p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/livingston.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
+</div>
 
+<div style="background-color: #F5F5F5; padding: 8px;">
 <a href="https://liberalarts.utexas.edu/philosophy/faculty/mm67248" target="_blank">Michelle Montague</a>: *What is the Attitude/Content Distinction?* 
 (<a href="javascript:;" onclick="return toggleMe('para9')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para10')" value="Toggle">Audio & Handout</a>)
 
@@ -75,7 +82,9 @@ You can find audio and slides from the workshop's talks here.
 <p><a href="https://downloads.sms.cam.ac.uk/2457036/2457042.mp3" target="_blank" download>Download Audio</a></p>
 <p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/montague.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
+</div>
 
+<div style="background-color: #F5F5F5; padding: 8px;">
 <a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: *The Classificatory Conception of Propositional Content* 
 (<a href="javascript:;" onclick="return toggleMe('para11')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para12')" value="Toggle">Audio & Slides</a>)
 
@@ -86,7 +95,9 @@ You can find audio and slides from the workshop's talks here.
 <p><a href="https://downloads.sms.cam.ac.uk/2457067/2457073.mp3" target="_blank" download>Download Audio</a></p>
 <p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/hanks.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
+</div>
 
+<div style="background-color: #F5F5F5; padding: 8px;">
 <a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>: *New Directions on the Narrow Direction Problem* 
 (<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle">Audio</a>)
 
@@ -97,7 +108,9 @@ You can find audio and slides from the workshop's talks here.
 <p><a href="https://downloads.sms.cam.ac.uk/2457067/2457073.mp3" target="_blank" download>Download Audio</a></p>
 <!--<p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/brigham.pdf" allowfullscreen webkitallowfullscreen></iframe></p>-->
 </div>
+</div>
 
+<div style="background-color: #F5F5F5; padding: 8px;">
 <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a>: *Absence made Present: The Representation of Time in Perceptual Imagination* 
 (<a href="javascript:;" onclick="return toggleMe('para15')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para16')" value="Toggle">Slides & Audio</a>)
 
@@ -107,6 +120,7 @@ You can find audio and slides from the workshop's talks here.
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457089/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457089/2457095.mp3" target="_blank" download>Download Audio</a></p>
 <p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/soteriou.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
 </div>
 
 <span class="caption text-muted">Image:
