@@ -36,7 +36,7 @@ You can find audio and slides from the workshop's talks here.
 </div>
 </div>
 
-<div style="padding: 12px; border-style: solid; border-left: 2px #F5F5F5; border-right: 2px #F5F5F5;">
+<div style="padding: 12px; border-left: solid 2px #F5F5F5; border-right: solid 2px #F5F5F5;">
 <a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: <em>Experiential Pluralism and Mental Kinds</em> 
 
 (<a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">Abstract</a>)
