@@ -32,7 +32,7 @@ You can find audio and slides from the workshop's talks here.
 <div id="para2" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456831/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2456831/2456837.mp3" target="_blank" download>Download Audio</a></p>
-<iframe class="map" src="/ViewerJS/#../pdfs/intentionality/gow.pdf" allowfullscreen webkitallowfullscreen></iframe>
+<script async class="speakerdeck-embed" data-id="14ee8933f3c74aab957f68a3fe7fe12d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 </div>
 </div>
 
