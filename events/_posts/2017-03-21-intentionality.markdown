@@ -18,9 +18,19 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 - How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’, Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
 
 # Talks
-<div style="background-color: #F5F5F5; padding: 12px;">
+
 You can find abstracts, audio, slides, and handouts from the workshop's talks below. Simply click to reveal them.
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+<a href="http://www.timcrane.com" target="_blank">Tim Crane</a>: <em>Opening Remarks</em> 
+(<a href="javascript:;" onclick="return toggleMe('para17')" value="Toggle"><u>Audio</u></a>)
+
+<div id="para12" class="toggle">
+<p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456820/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
+<p><a href="https://downloads.sms.cam.ac.uk/2456820/2456826.mp3" target="_blank" download>Download Audio</a></p>
 </div>
+</div>
+
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
 <a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: <em>The Classificatory Conception of Propositional Content</em> 
 (<a href="javascript:;" onclick="return toggleMe('para11')" value="Toggle"><u>Abstract</u></a>) (<a href="javascript:;" onclick="return toggleMe('para12')" value="Toggle"><u>Audio & Slides</u></a>)
