@@ -21,7 +21,9 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 You can find audio and slides from the workshop's talks here.
 
-<a href="http://lauragow.com" target="_blank">Laura Gow</a>: *Perceptual Experience: Non-relationalism without Adverbialism* (<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para2')" value="Toggle">Audio</a>)
+<div style="background-color: F5F5F5;">
+<a href="http://lauragow.com" target="_blank">Laura Gow</a>: *Perceptual Experience: Non-relationalism without Adverbialism* 
+(<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para2')" value="Toggle">Audio</a>)
 
 <span id="para1" class="toggle">Representationalism is often marketed as being the position of choice for anyone seeking a physicalist account of perceptual experience, particularly when hallucinations and illusions are included among the experiences which our account is required to explain. This view has recently come under attack, and in the first part of this paper I offer an explanation of why standard representationalism is fundamentally unable to meet the demands of a genuinely physicalist metaphysics. Ultimately, this is due to its failure to move away from a relational conception of perceptual experience. I consider the existing non-relational views which have arisen as a response to the metaphysical objections to standard representationalism, and point out some problems with them. In most cases, the problems are due to the views in question being modelled on adverbialism. I present a new non-relational view of perceptual experience which escapes these problems.</span>
 
@@ -30,8 +32,10 @@ You can find audio and slides from the workshop's talks here.
 <p><a href="https://downloads.sms.cam.ac.uk/2456831/2456837.mp3" target="_blank" download>Download Audio</a></p>
 <p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/gow.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
+</div>
 
-<a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: *Experiential Pluralism and Mental Kinds* (<a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">Abstract</a>) <!--(<a href="javascript:;" onclick="return toggleMe('para4')" value="Toggle">Handout</a>)-->
+<a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: *Experiential Pluralism and Mental Kinds* 
+(<a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">Abstract</a>) <!--(<a href="javascript:;" onclick="return toggleMe('para4')" value="Toggle">Handout</a>)-->
 
 <span id="para3" class="toggle">his paper offers a novel argument in favour of experiential pluralism about visual experience – the view that the nature of successful visual experience is different from the nature of unsuccessful visual experience. In addition, it makes a methodological point about philosophical debates concerning the nature of perceptual experience: whether a given view about the nature of experience amounts to an interesting and substantive thesis about our own minds, depends on the significance of the psychological kind claim made by it. This means that an adequate defence of a given view of the nature of experience must include articulation of the latter's significance qua psychological kind. The argument advanced provides the material to meet this demand. In turn, this constitutes further support for the argument itself.</span>
 
@@ -39,7 +43,8 @@ You can find audio and slides from the workshop's talks here.
 <p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/spener.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div> -->
 
-<a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/golob/index.aspx" target="_blank">Sacha Golob</a>: *Kant, Perception and Disjunctivism* (<a href="javascript:;" onclick="return toggleMe('para5')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para6')" value="Toggle">Audio & Handout</a>)
+<a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/golob/index.aspx" target="_blank">Sacha Golob</a>: *Kant, Perception and Disjunctivism* 
+(<a href="javascript:;" onclick="return toggleMe('para5')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para6')" value="Toggle">Audio & Handout</a>)
 
 <span id="para5" class="toggle">Over the last thirty years, Kant’s work on perception has been successively read as endorsing conceptualist representationalism, non-conceptualist representationalism and naïve realism. I argue that, for all the ground covered, these readings are either partial or mistaken. In the first half of the paper, I review some of the key textual issues, in particular the first Critique’s stance on veridicality conditions and the Anthropology’s account of imagination. In the second half, I argue that this evidence supports a new account of Kant’s relationship to contemporary disjunctivism, one closely tied to his broader theory of mind.</span>
 
@@ -49,7 +54,8 @@ You can find audio and slides from the workshop's talks here.
 <p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/golob.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 
-<a href="https://www.unm.edu/~pmliving/" target="_blank">Paul Livingston</a>: *Presentation and the Ontology of Consciousness* (<a href="javascript:;" onclick="return toggleMe('para7')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para8')" value="Toggle">Audio & Slides</a>)
+<a href="https://www.unm.edu/~pmliving/" target="_blank">Paul Livingston</a>: *Presentation and the Ontology of Consciousness* 
+(<a href="javascript:;" onclick="return toggleMe('para7')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para8')" value="Toggle">Audio & Slides</a>)
 
 <span id="para7" class="toggle">In this paper, I consider some potential implications for the metaphysics and ontology of consciousness of an idea that is crucial to many central developments of the phenomenological tradition beginning with Brentano and Husserl.  This is the idea of an essential link between consciousness and presentation, such that we can understand key aspects of the metaphysics of consciousness by understanding conscious states as having, essentially, a presentational character.  If set in the context of recent modal and two-dimensional arguments for the falsity or limitations of physicalism, consideration of the presentational character of consciousness motivates a novel kind of ontological option for its placement in the world.  This option vindicates the irreducibility of consciousness (in one sense of “irreducible”) to description or explanation in terms only of physical facts, and clarifies this irreducibility as resulting ultimately from broadly modal/semantic features of the presentation and individuation of entities across possible worlds.  At the same time, it does not thereby require or invite anything like a substance or property dualism, since the features of consciousness that make for its irreducibility can also (as I shall argue) be accounted for by means of a global monism of substances and properties.</span>
 
@@ -59,7 +65,8 @@ You can find audio and slides from the workshop's talks here.
 <p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/livingston.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 
-<a href="https://liberalarts.utexas.edu/philosophy/faculty/mm67248" target="_blank">Michelle Montague</a>: *What is the Attitude/Content Distinction?* (<a href="javascript:;" onclick="return toggleMe('para9')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para10')" value="Toggle">Audio & Handout</a>)
+<a href="https://liberalarts.utexas.edu/philosophy/faculty/mm67248" target="_blank">Michelle Montague</a>: *What is the Attitude/Content Distinction?* 
+(<a href="javascript:;" onclick="return toggleMe('para9')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para10')" value="Toggle">Audio & Handout</a>)
 
 <span id="para9" class="toggle">In describing the structure of conscious intentional states, philosophers typically appeal to what I will call the attitude/content distinction. On the standard view, attitudes are understood as relations relating subjects to contents, understood as propositions or something proposition-like. I will argue that the attitude/content distinction is not a ‘real’ metaphysical distinction. Rather, the words and concepts we use to distinguish between the attitudes (e.g. belief, thought, desire) are heuristic devices for grouping together certain classes of phenomenological properties, which themselves determine certain kinds of intentional content. In the end, all we have, metaphysically speaking, are phenomenological properties, intentional content, and a determination relation between them. I will focus on belief, thought, and perception.</span>
 
@@ -69,7 +76,8 @@ You can find audio and slides from the workshop's talks here.
 <p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/montague.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 
-<a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: *The Classificatory Conception of Propositional Content* (<a href="javascript:;" onclick="return toggleMe('para11')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para12')" value="Toggle">Audio & Slides</a>)
+<a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: *The Classificatory Conception of Propositional Content* 
+(<a href="javascript:;" onclick="return toggleMe('para11')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para12')" value="Toggle">Audio & Slides</a>)
 
 <span id="para11" class="toggle">What does it mean for a mental state or an utterance to “have propositional content”? Here I contrast three different answers to this question, which I will call the Fregean, Russellian, and classificatory conceptions of propositional content. According to the Fregean conception, propositions are the primary bearers of representational features and truth-conditions, and mental states and utterances inherit these features from propositions. According to the Russellian conception, propositions are what we represent in our mental states and utterances — they are what these states and utterances are directed at. According to the classificatory conception, propositions are classificatory devices, which we use to identify and individuate our mental states and utterances. After raising problems for the Fregean and Russellian approaches I will explore the consequences of the classificatory conception for our view of propositional attitudes and speech acts.</span>
 
@@ -79,7 +87,8 @@ You can find audio and slides from the workshop's talks here.
 <p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/hanks.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 
-<a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>: New Directions on the Narrow Direction Problem* (<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle">Audio</a>)
+<a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>: *New Directions on the Narrow Direction Problem* 
+(<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle">Audio</a>)
 
 <span id="para13" class="toggle">One of the central objections to Russell's multiple relation theory of judgement is that it cannot distinguish between different judgements involving non-symmetric relations. This has come to be known as the narrow direction problem. I want to diagnose why this problem arises for Russell's view, explain what he can say in response to it, and then look at whether the problem arises, and the response works, when it comes to other theories of judgement.</span>
 
@@ -89,7 +98,8 @@ You can find audio and slides from the workshop's talks here.
 <!--<p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/brigham.pdf" allowfullscreen webkitallowfullscreen></iframe></p>-->
 </div>
 
-<a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a>: *Absence made Present: The Representation of Time in Perceptual Imagination* (<a href="javascript:;" onclick="return toggleMe('para15')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para16')" value="Toggle">Slides & Audio</a>)
+<a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a>: *Absence made Present: The Representation of Time in Perceptual Imagination* 
+(<a href="javascript:;" onclick="return toggleMe('para15')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para16')" value="Toggle">Slides & Audio</a>)
 
 <span id="para15" class="toggle">My aim in this talk is to articulate and explain some distinctive features of the intentionality of perceptual imagination. I take as my starting point some remarks that Sartre makes about the phenomenology of perceptual imagination in The Imaginary: a phenomenological psychology of the imagination. Sartre suggests there that in the case of an “imaging consciousness” of an object, there is a respect in which what is absent is “made present” and yet given as absent. I shall raise some puzzles about that proposal and outline a solution to them. I shall be suggesting that the solution lies in explaining what is correct in Sartre’s further suggestion that “the time of the object as imaged is an irreality”. I shall argue that the “irreality” of time in imagination can be explained by the proposal that perceptual imagination is a phenomenally conscious act of ‘spontaneity’ that is the representation of the phenomenology of a ‘receptive’ occurrence in the stream of consciousness. That proposal can accommodate and explain how an act of perceptual imagination can be the representation of a temporal present, the temporal location of which is not determined by the temporal location of the act of imagining. That feature of the intentionality of imagination can in turn can accommodate and explain what is correct in the Sartrean suggestion that in perceptual imagination what is absent is “made present” and yet given as absent.</span>
 
