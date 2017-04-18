@@ -97,13 +97,14 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
 <a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>: <em>New Directions on the Narrow Direction Problem</em> 
-(<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle"><u>Abstract</u></a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle"><u>Audio</u></a>)
+(<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle"><u>Abstract</u></a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle"><u>Audio & Handout</u></a>)
 
 <span id="para13" class="toggle">One of the central objections to Russell’s multiple relation theory of judgement is that it cannot distinguish between different judgements involving non-symmetric relations. This has come to be known as the narrow direction problem. I want to diagnose why this problem arises for Russell’s view, explain what he can say in response to it, and then look at whether the problem arises, and the response works, when it comes to other theories of judgement.</span>
 
 <div id="para14" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457078/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457078/2457084.mp3" target="_blank" download>Download Audio</a></p>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/brigham.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
