@@ -97,17 +97,6 @@ You can find audio and slides from the workshop's talks here.
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
-<a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>: <em>New Directions on the Narrow Direction Problemv 
-(<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle">Audio</a>)
-
-<span id="para13" class="toggle">One of the central objections to Russell's multiple relation theory of judgement is that it cannot distinguish between different judgements involving non-symmetric relations. This has come to be known as the narrow direction problem. I want to diagnose why this problem arises for Russell's view, explain what he can say in response to it, and then look at whether the problem arises, and the response works, when it comes to other theories of judgement.</span>
-
-<div id="para14" class="toggle">
-<p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457067/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><a href="https://downloads.sms.cam.ac.uk/2457067/2457073.mp3" target="_blank" download>Download Audio</a></p>
-</div>
-
-<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5; border-bottom: solid #F5F5F5;">
 <a href="http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/soteriou.aspx" target="_blank">Matthew Soteriou</a>: <em>Absence made Present: The Representation of Time in Perceptual Imagination</em> 
 (<a href="javascript:;" onclick="return toggleMe('para15')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para16')" value="Toggle">Slides & Audio</a>)
 
