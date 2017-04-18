@@ -34,8 +34,7 @@ You can find audio and slides from the workshop's talks here.
 </div>
 </div>
 
-<div style="background-color: #808080; padding: 8px;">
-<a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: <em>Experiential Pluralism and Mental Kinds</em> 
+<a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: *Experiential Pluralism and Mental Kinds* 
 (<a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">Abstract</a>) <!--(<a href="javascript:;" onclick="return toggleMe('para4')" value="Toggle">Handout</a>)-->
 
 <span id="para3" class="toggle">his paper offers a novel argument in favour of experiential pluralism about visual experience – the view that the nature of successful visual experience is different from the nature of unsuccessful visual experience. In addition, it makes a methodological point about philosophical debates concerning the nature of perceptual experience: whether a given view about the nature of experience amounts to an interesting and substantive thesis about our own minds, depends on the significance of the psychological kind claim made by it. This means that an adequate defence of a given view of the nature of experience must include articulation of the latter's significance qua psychological kind. The argument advanced provides the material to meet this demand. In turn, this constitutes further support for the argument itself.</span>
