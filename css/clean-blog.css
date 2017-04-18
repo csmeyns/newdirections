@@ -877,3 +877,44 @@ ul.share-buttons li{
     height: 600px;
   }
 } */
+
+/* This introduces the handout class, like the map class but more for a4 shaped handout pdfs */
+
+.handout {
+  text-align: center;
+}
+
+@media (min-width: 320px) {
+  .handout {
+    width: 280px;
+    height: 396px;
+  }
+}
+
+@media (min-width: 360px) {
+  .handout {
+    width: 320px;
+    height: 453px;
+  }
+}
+
+@media (min-width: 400px) {
+  .handout {
+    width: 360px;
+    height: 509px;
+  }
+}
+
+@media (min-width: 550px) {
+  .handout {
+    width: 520px;
+    height: 735px;
+  }
+}
+
+@media (min-width: 650px) {
+  .handout {
+    width: 600px;
+    height: 849px;
+  }
+}
