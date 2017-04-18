@@ -21,8 +21,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 You can find audio and slides from the workshop's talks here.
 
-<div style="background-color: #F5F5F5;">
-<span style="padding: 12px">
+<div style="background-color: #F5F5F5; padding: 8px;">
 <a href="http://lauragow.com" target="_blank">Laura Gow</a>: <em>Perceptual Experience: Non-relationalism without Adverbialism</em> 
 (<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para2')" value="Toggle">Audio & Slides</a>)
 
@@ -33,7 +32,6 @@ You can find audio and slides from the workshop's talks here.
 <p><a href="https://downloads.sms.cam.ac.uk/2456831/2456837.mp3" target="_blank" download>Download Audio</a></p>
 <p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/gow.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
-</span>
 </div>
 
 <a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: *Experiential Pluralism and Mental Kinds* 
