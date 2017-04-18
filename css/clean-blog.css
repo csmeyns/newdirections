@@ -864,14 +864,14 @@ ul.share-buttons li{
   }
 }
 
-/* @media (min-width: 700px) {
+@media (min-width: 700px) {
   .map {
     width: 680px;
     height: 510px;
   }
 }
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .map {
     width: 800px;
     height: 600px;
