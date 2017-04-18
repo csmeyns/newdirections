@@ -21,7 +21,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 You can find audio and slides from the workshop's talks here.
 
-<div style="background-color: #F5F5F5; padding: 8px;">
+<div >
 <a href="http://lauragow.com" target="_blank">Laura Gow</a>: <em>Perceptual Experience: Non-relationalism without Adverbialism</em> 
 (<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para2')" value="Toggle">Audio & Slides</a>)
 
