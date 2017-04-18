@@ -25,15 +25,15 @@ You can find audio and slides from the workshop's talks here.
 <a href="http://lauragow.com" target="_blank">Laura Gow</a>: <em>Perceptual Experience: Non-relationalism without Adverbialism</em> 
 (<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para2')" value="Toggle">Audio</a>)
 
-<span id="para1" class="toggle">Representationalism is often marketed as being the position of choice for anyone seeking a physicalist account of perceptual experience, particularly when hallucinations and illusions are included among the experiences which our account is required to explain. This view has recently come under attack, and in the first part of this paper I offer an explanation of why standard representationalism is fundamentally unable to meet the demands of a genuinely physicalist metaphysics. Ultimately, this is due to its failure to move away from a relational conception of perceptual experience. I consider the existing non-relational views which have arisen as a response to the metaphysical objections to standard representationalism, and point out some problems with them. In most cases, the problems are due to the views in question being modelled on adverbialism. I present a new non-relational view of perceptual experience which escapes these problems.</span>
+<p><span id="para1" class="toggle">Representationalism is often marketed as being the position of choice for anyone seeking a physicalist account of perceptual experience, particularly when hallucinations and illusions are included among the experiences which our account is required to explain. This view has recently come under attack, and in the first part of this paper I offer an explanation of why standard representationalism is fundamentally unable to meet the demands of a genuinely physicalist metaphysics. Ultimately, this is due to its failure to move away from a relational conception of perceptual experience. I consider the existing non-relational views which have arisen as a response to the metaphysical objections to standard representationalism, and point out some problems with them. In most cases, the problems are due to the views in question being modelled on adverbialism. I present a new non-relational view of perceptual experience which escapes these problems.</span></p>
 
 <div id="para2" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456831/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2456831/2456837.mp3" target="_blank" download>Download Audio</a></p>
 <p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/gow.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
-</div>
 
+</div>
 <a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: *Experiential Pluralism and Mental Kinds* 
 (<a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">Abstract</a>) <!--(<a href="javascript:;" onclick="return toggleMe('para4')" value="Toggle">Handout</a>)-->
 
