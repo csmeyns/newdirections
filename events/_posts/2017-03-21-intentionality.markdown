@@ -21,9 +21,11 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 You can find audio and slides from the workshop's talks here.
 
+
 <div style="background-color: #F5F5F5; padding: 12px;">
 <a href="http://lauragow.com" target="_blank">Laura Gow</a>: <em>Perceptual Experience: Non-relationalism without Adverbialism</em> 
-<span>(<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para2')" value="Toggle">Audio & Slides</a>)</span>
+
+(<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para2')" value="Toggle">Audio & Slides</a>)
 
 <span id="para1" class="toggle">Representationalism is often marketed as being the position of choice for anyone seeking a physicalist account of perceptual experience, particularly when hallucinations and illusions are included among the experiences which our account is required to explain. This view has recently come under attack, and in the first part of this paper I offer an explanation of why standard representationalism is fundamentally unable to meet the demands of a genuinely physicalist metaphysics. Ultimately, this is due to its failure to move away from a relational conception of perceptual experience. I consider the existing non-relational views which have arisen as a response to the metaphysical objections to standard representationalism, and point out some problems with them. In most cases, the problems are due to the views in question being modelled on adverbialism. I present a new non-relational view of perceptual experience which escapes these problems.</span>
 
@@ -34,9 +36,10 @@ You can find audio and slides from the workshop's talks here.
 </div>
 </div>
 
-<div style="padding: 12px;">
+<div style="padding: 12px; border-style: solid; border-left: 2px #F5F5F5; border-right: 2px #F5F5F5;">
 <a href="http://www.birmingham.ac.uk/staff/profiles/philosophy/spener-maja.aspx" target="_blank">Maja Spener</a>: <em>Experiential Pluralism and Mental Kinds</em> 
-<span>(<a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">Abstract</a>)</span>
+
+(<a href="javascript:;" onclick="return toggleMe('para3')" value="Toggle">Abstract</a>)
 
 <span id="para3" class="toggle">This paper offers a novel argument in favour of experiential pluralism about visual experience – the view that the nature of successful visual experience is different from the nature of unsuccessful visual experience. In addition, it makes a methodological point about philosophical debates concerning the nature of perceptual experience: whether a given view about the nature of experience amounts to an interesting and substantive thesis about our own minds, depends on the significance of the psychological kind claim made by it. This means that an adequate defence of a given view of the nature of experience must include articulation of the latter's significance qua psychological kind. The argument advanced provides the material to meet this demand. In turn, this constitutes further support for the argument itself.</span>
 </div>
