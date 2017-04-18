@@ -105,8 +105,6 @@ You can find audio and slides from the workshop's talks here.
 <div id="para14" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457067/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457067/2457073.mp3" target="_blank" download>Download Audio</a></p>
-<!--<p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/brigham.pdf" allowfullscreen webkitallowfullscreen></iframe></p>-->
-</div>
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5; border-bottom: solid #F5F5F5;">
