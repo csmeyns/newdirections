@@ -829,10 +829,10 @@ ul.share-buttons li{
   text-align: center;
 }
 
-@media (min-width: 300px) {
+@media (min-width: 320px) {
   .map {
-    width: 270px;
-    height: 203px;
+    width: 280px;
+    height: 210px;
   }
 }
 
