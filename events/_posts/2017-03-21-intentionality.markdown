@@ -18,9 +18,21 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 - How can the history of intentionality and related concepts inform how we think of the mind? For example, what are the similarities and differences between Locke’s ‘ideas’, Kant’s ‘representations’, Brentano’s concept of ‘intentional inexistence’, and Russell’s ‘propositional attitudes’?
 
 # Talks
-
+<div style="background-color: #F5F5F5; padding: 12px;">
 You can find audio and slides from the workshop's talks here.
+</div>
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+<a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: <em>The Classificatory Conception of Propositional Content</em> 
+(<a href="javascript:;" onclick="return toggleMe('para11')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para12')" value="Toggle">Audio & Slides</a>)
 
+<span id="para11" class="toggle">What does it mean for a mental state or an utterance to “have propositional content”? Here I contrast three different answers to this question, which I will call the Fregean, Russellian, and classificatory conceptions of propositional content. According to the Fregean conception, propositions are the primary bearers of representational features and truth-conditions, and mental states and utterances inherit these features from propositions. According to the Russellian conception, propositions are what we represent in our mental states and utterances — they are what these states and utterances are directed at. According to the classificatory conception, propositions are classificatory devices, which we use to identify and individuate our mental states and utterances. After raising problems for the Fregean and Russellian approaches I will explore the consequences of the classificatory conception for our view of propositional attitudes and speech acts.</span>
+
+<div id="para12" class="toggle">
+<p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457067/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
+<p><a href="https://downloads.sms.cam.ac.uk/2457067/2457073.mp3" target="_blank" download>Download Audio</a></p>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/hanks.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
 <a href="http://lauragow.com" target="_blank">Laura Gow</a>: <em>Perceptual Experience: Non-relationalism without Adverbialism</em> 
@@ -32,7 +44,7 @@ You can find audio and slides from the workshop's talks here.
 <div id="para2" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456831/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2456831/2456837.mp3" target="_blank" download>Download Audio</a></p>
-<script async class="speakerdeck-embed" data-id="14ee8933f3c74aab957f68a3fe7fe12d" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/golob.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -79,20 +91,20 @@ You can find audio and slides from the workshop's talks here.
 <div id="para10" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457036/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457036/2457042.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="handout" src="/ViewerJS/#../pdfs/intentionality/montague.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/montague.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
-<a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: <em>The Classificatory Conception of Propositional Content</em> 
-(<a href="javascript:;" onclick="return toggleMe('para11')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para12')" value="Toggle">Audio & Slides</a>)
+<a href="https://cambridge.academia.edu/DanielBrigham" target="_blank">Dan Brigham</a>: <em>New Directions on the Narrow Direction Problem</em> 
+(<a href="javascript:;" onclick="return toggleMe('para13')" value="Toggle">Abstract</a>) (<a href="javascript:;" onclick="return toggleMe('para14')" value="Toggle">Audio & Handout</a>)
 
-<span id="para11" class="toggle">What does it mean for a mental state or an utterance to “have propositional content”? Here I contrast three different answers to this question, which I will call the Fregean, Russellian, and classificatory conceptions of propositional content. According to the Fregean conception, propositions are the primary bearers of representational features and truth-conditions, and mental states and utterances inherit these features from propositions. According to the Russellian conception, propositions are what we represent in our mental states and utterances — they are what these states and utterances are directed at. According to the classificatory conception, propositions are classificatory devices, which we use to identify and individuate our mental states and utterances. After raising problems for the Fregean and Russellian approaches I will explore the consequences of the classificatory conception for our view of propositional attitudes and speech acts.</span>
+<span id="para13" class="toggle">One of the central objections to Russell’s multiple relation theory of judgement is that it cannot distinguish between different judgements involving non-symmetric relations. This has come to be known as the narrow direction problem. I want to diagnose why this problem arises for Russell’s view, explain what he can say in response to it, and then look at whether the problem arises, and the response works, when it comes to other theories of judgement.</span>
 
-<div id="para12" class="toggle">
-<p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457067/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><a href="https://downloads.sms.cam.ac.uk/2457067/2457073.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/hanks.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<div id="para14" class="toggle">
+<p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457078/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
+<p><a href="https://downloads.sms.cam.ac.uk/2457078/2457084.mp3" target="_blank" download>Download Audio</a></p>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/brigham.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
