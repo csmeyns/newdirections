@@ -19,7 +19,7 @@ Philosophical theorising about intentionality - the mind’s capacity to represe
 
 # Talks
 <div style="background-color: #F5F5F5; padding: 12px;">
-You can find audio, slides, and handouts from the workshop's talks below. 
+You can find abstracts, audio, slides, and handouts from the workshop's talks below. 
 </div>
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
 <a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: <em>The Classificatory Conception of Propositional Content</em> 
