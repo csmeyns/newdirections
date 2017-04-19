@@ -12,6 +12,8 @@ It is attended by the project members and visitors, as well as undergraduate and
 
 ## Year Two - Intentionality
 
+You can find audio and slides this year's seminar below. Simply click to reveal them.
+
 <div style="background-color: #F5F5F5; padding: 12px;">
 1. Introducing Intentionality and its History (<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle"><u>Audio & Slides</u></a>)
 <div id="para1" class="toggle">
