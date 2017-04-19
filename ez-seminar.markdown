@@ -12,7 +12,7 @@ permalink: /seminar/
 
 We are running a weekly seminar in Cambridge, led by Tim Crane. The theme for the seminar in year one was consciousness. The theme for year two is intentionality.
 
-It is attended by the project members and visitors, as well as undergraduate and graduate students at the University of Cambridge. Here you can find the audio and slides from the seminars. You can also download them on our page on <a href="https://itunes.apple.com/gb/itunes-u/new-directions-in-study-mind/id1173953206" target="_blank">iTunesU</a>. You can find slides from last year's seminar <a href="https://speakerdeck.com/newdirectionsproject" target="_blank">here</a>.</p>
+It is attended by the project members and visitors, as well as undergraduate and graduate students at the University of Cambridge. Here you can find the audio and slides from the seminars. You can also download them on our page on <a href="https://itunes.apple.com/gb/itunes-u/new-directions-in-study-mind/id1173953206" target="_blank">iTunesU</a>. You can find slides from last year's seminar <a href="https://speakerdeck.com/newdirectionsproject" target="_blank">here</a>.
 
 ## Year Two - Intentionality
 
