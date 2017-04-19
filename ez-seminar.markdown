@@ -1,20 +1,16 @@
 ---
-layout: page
+layout: page-narrow
 title: "Seminar"
 description: "Learn."
 header-img: "img/events-bg3.jpg"
 permalink: /seminar/
 ---
 
-<div class="container">
-<div class="row">
-<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
 We are running a weekly seminar in Cambridge, led by Tim Crane. The theme for the seminar in year one was consciousness. The theme for year two is intentionality.
 
 It is attended by the project members and visitors, as well as undergraduate and graduate students at the University of Cambridge. Here you can find the audio and slides from the seminars. You can also download them on our page on <a href="https://itunes.apple.com/gb/itunes-u/new-directions-in-study-mind/id1173953206" target="_blank">iTunesU</a>. You can find slides from last year's seminar <a href="https://speakerdeck.com/newdirectionsproject" target="_blank">here</a>.
 
-##Year Two - Intentionality
+## Year Two - Intentionality
 
 <div style="background-color: #F5F5F5; padding: 12px;">
 1. Introducing Intentionality and its History (<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle">Audio & Slides</a>)
