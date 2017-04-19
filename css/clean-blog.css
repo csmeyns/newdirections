@@ -878,3 +878,7 @@ ul.share-buttons li{
   }
 } */
 
+/* abstract class reduces size of font for abstracts */
+.abstract {
+  font-size: 16px;
+}
