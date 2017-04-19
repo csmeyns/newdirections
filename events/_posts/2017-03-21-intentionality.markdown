@@ -9,7 +9,7 @@ header-img: "img/bgs/intentionality.jpg"
 thumbnail: "intentionality-thumbnail.png"
 ---
 
-Philosophical theorising about intentionality - the mind’s capacity to represent the world - has been dominated by attempts to reduce intentionality to physical or causal relations between thinkers and objects. This focus on reduction has led to a number of philosophically interesting features of intentionality being ignored. This workshop offers a reorientation of the study of intentionality away from the reductive project, instead focusing on the phenomenon of intentionality itself and the role it plays in our mental life. Such a reorientation opens up a number of potentially fruitful avenues for investigation:
+Philosophical theorising about intentionality - the mind’s capacity to represent the world - has been dominated by attempts to reduce intentionality to physical or causal relations between thinkers and objects. This focus on reduction has led to a number of philosophically interesting features of intentionality being ignored. This workshop offered a reorientation of the study of intentionality away from the reductive project, instead focusing on the phenomenon of intentionality itself and the role it plays in our mental life. Such a reorientation opens up a number of potentially fruitful avenues for investigation:
 
 - What can be learnt about intentionality by focusing on the phenomenon from the first-person perspective? Is perceptual consciousness essentially intentional or representational? Is there a proprietary phenomenology associated with conscious thought?
 
@@ -23,11 +23,12 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 
 <div style="background-color: #F5F5F5; padding: 12px;">
 <a href="http://www.timcrane.com" target="_blank">Tim Crane</a>: <em>Opening Remarks</em> 
-(<a href="javascript:;" onclick="return toggleMe('para17')" value="Toggle"><u>Audio</u></a>)
+(<a href="javascript:;" onclick="return toggleMe('para17')" value="Toggle"><u>Audio & Slides</u></a>)
 
 <div id="para17" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456820/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2456820/2456826.mp3" target="_blank" download>Download Audio</a></p>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/crane.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
