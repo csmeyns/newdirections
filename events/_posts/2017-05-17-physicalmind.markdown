@@ -12,7 +12,7 @@ As part of the New Directions project, Tim Crane, the Knightbridge Professor of 
 
 The lecture will be followed by a reception.
 
-All are welcome, though places are limited. Please register using the form below.
+All are welcome, though places are limited. Please register using the form below. Registration closes on **Tuesday 9th May**.
 
 # Abstract
 
