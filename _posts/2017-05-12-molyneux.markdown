@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      "Molyneux's Question"
+startdate:     2016-10-01 12:00:00
+enddate:       2017-06-30 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/molyneux.jpg"
+thumbnail: "molyneux-thumbnail.png"
+people:
+- name: Louise Richardson
+  pic: richardson
+  position: Co-Principal Investigator
+  social:
+    - title: home
+      url: https://www.york.ac.uk/philosophy/staff/louise-richardson/
+    - title: twitter
+      url: twitter
+- name: John Schwenkler
+  pic: schwenkler
+  position: Co-Principal Investigator
+  social:
+    - title: home
+      url: http://johnschwenkler.weebly.com
+
+---
+
+
+The question that now bears his name was posed by the Irish philosopher William Molyneux, and discussed by John Locke in his  Essay Concerning Human Understanding:
+
+*Suppose a man born blind, and now adult, and taught by his touch to distinguish between a Cube, and a Sphere ..., so as to tell, when he felt one and t’other, which is the Cube, which the Sphere. Suppose then the Cube and Sphere placed on a Table, and the Blind Man to be made to see.  Quaere, whether by his sight, before he touched them, he could now distinguish, and tell, which is the Globe, which the Cube. (Locke 1694: II, ix, 8)*
+
+Molyneux’s question has had enduring appeal to philosophers in the ensuing three centuries. Why this is, is something of a mystery. It is unclear what, if any, philosophical problem would be settled if Molyneux’s question were to be answered. Furthermore, the question looks like one that philosophers have no particular role in resolving: to answer Molyneux’s question one should just, so it seems, present a ‘man born blind’ and now ‘made to see’ with a cube and a sphere and observe whether he can tell which is which. Just as mysterious as its enduring appeal to philosophers is the recalcitrance of Molyneux’s question to this direct experimental approach. Despite the promise of recent studies, carrying out this apparently simple experiment has, as yet, yielded no unambiguous answer to Molyneux’s question.
+
+It is natural to think that scientists will answer the question by performing the simple experiment, and that philosophers will draw conclusions about the issues of interest to them once an answer is provided. And this reflects a tempting picture of the form that dialogue between scientists and philosophers of perception should take more generally: the experiments that scientists perform provide data from which philosophers should draw conclusions. However, the enduring appeal and recalcitrance of Molyneux’s question raise the possibility that this view of the roles of philosophers and scientists in thinking about Molyneux’s question specifically and perception more generally is mistaken.
+
+For example, maybe philosophers have a role in answering Molyneux’s question. Perhaps the scientific experiments that will contribute to answering the question are other than the simple one Molyneux described. And maybe philosophers’ interest in Molyneux’s question can be satisfied without an answer to it: to find out, philosophers need to say more clearly why they are interested in it.
+
+We will bring together philosophers for a two­-day international conference in York to consider the different roles and interests that philosophers and scientists have in considering Molyneux’s question. By trying to answer these questions together, we will also be making progress on the bigger issue of the proper form that dialogue between philosophers and scientists of perception ought to take.
+
+<span class="caption text-muted">Image:
+<a href="https://www.flickr.com/photos/sarahgb/6736759289" target="_blank">Marblelicious</a>, Sarah Barker (12/01/21)</span>

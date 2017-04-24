@@ -1,0 +1,29 @@
+---
+layout:     post
+title:      "C.D. Broad's Philosophy of Mind"
+startdate:     2017-01-01 12:00:00
+enddate:       2017-06-30 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/broad.jpg"
+thumbnail: "broad-thumbnail.png"
+people:
+- name: Joel Walmsley
+  pic: walmsley
+  position: Principal Investigator
+  social:
+    - title: home
+      url: http://www.ucc.ie/jwalmsley/
+      title: twitter
+      url: https://twitter.com/jvwalmsley
+
+---
+
+
+Although the philosopher C.D. Broad (1887-1971) wrote on a wide range of philosophical topics (to much acclaim), it is fair to say that his work has been overshadowed by his Cambridge contemporaries — Bertrand Russell, Ludwig Wittgenstein and G.E. Moore — and therefore remains lamentably neglected. This project aims to catalyse and contribute to a nascent rediscovery of Broad’s work — especially his theory of “emergence” about the mind — through a more careful analysis of his work both in its own right, and in relation to other British Emergentist theorists from the beginning of the 20th century.
+
+The concept of emergence is supposed to be a way of making sense of the old truism (often attributed to Aristotle) that in some cases, “the whole is greater than the sum of its parts.” In particular, the concept is often applied to examples where wholes, systems, or higher levels display properties that are not possessed by the parts or lower levels that make them up. With respect to the mind, C.D. Broad argues for something like the view that mental properties and events are emergent in just this way; although individual neurons cannot think, when they are combined in the right way to compose a brain, the mind is a property of that whole despite not being present in its parts. If such a theory can be made to work, it offers a way to avoid the reductionistic tendencies of many contemporary theories of mind without supposing that the mind is an additional non-physical substance like a Cartesian soul.
+
+My project aims both to elucidate and defend Broad’s emergentism in philosophy of mind, and to make his other work (e.g., in ethics, philosophy of science, the metaphysics of time and parapsychology) more accessible to a wider audience. The  first aspect will be achieved by the completion of a manuscript on “British Emergentism” which distinguishes Broad from the other theorists thus labelled, and shows how his view is both philosophically preferable, and more widely applicable to problem cases in contemporary discussion (e.g. in artificial intelligence and collective decision-making). The second aspect involves the development of an edited collection of Broad’s own most important writings so that, for the first time, they will all be easily available and their importance can be more readily appreciated.
+
+<span class="caption text-muted">Image:
+<a href="https://commons.wikimedia.org/wiki/File:Cmglee_Cambridge_Trinity_College_Neviles_Court.jpg" target="_blank">View of the Wren Library at Nevile's Court of Trinity College, Cambridge University.</a>, Cmglee, Wikimedia Commons</span>

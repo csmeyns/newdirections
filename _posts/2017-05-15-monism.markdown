@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Russellian Monism"
+subtitle:   "Time for the Details"  
+startdate:     2016-10-01 12:00:00
+enddate:       2017-09-30 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/monism.jpg"
+thumbnail: "monism-thumbnail.png"
+people:
+- name: Philip Goff
+  pic: goff
+  position: Co-Principal Investigator
+  social:
+    - title: home
+      url: http://www.philipgoffphilosophy.com
+    - title: twitter
+      url: https://twitter.com/Philip_Goff
+- name: Sam Coleman
+  pic: coleman
+  position: Co-Principal Investigator
+  social:
+    - title: home
+      url: https://herts.academia.edu/SamColeman
+
+---
+
+
+In The Analysis of Matter (1927) Bertrand Russell defended a couple of theses which amounted to a novel approach to the mind-body problem. By coincidence similar claims were defended by Eddington in his Gifford lectures of the same year. This approach was forgotten about in the latter half of the twentieth century, perhaps because it didn’t fit with the physicalist predilections of the period. However, it has recently been rediscovered, leading to a view – or better a school of views – known as ‘Russellian monism.’
+
+Traditional physicalist approaches to the mind-body problem start from the idea that the physical sciences give us a complete picture of reality, which consciousness must somehow be squeezed into. But Russell and Eddington started from the observation that while physics may be great at telling us what matter does, it doesn’t really tell us what it is. As Eddington put it, ‘Our knowledge of the nature of the objects treated in physics consists solely of readings of pointers [on instrument dials] and other indicators.’ What do we know of what matter intrinsically is beyond how it affects our instruments? Only that some of it – the stuff in brains – involves consciousness. Consciousness, then, should be our starting point in trying to work out what matter is, rather than something we try to squeeze in as an afterthought.
+
+There has been much discussion of Russellian monism in the recent philosophy of mind literature (Pereboom 2011, Alter & Nagasawa 2015, Brüntrup & Jaskolla 2016). However, most of the debate has focused on the coherence and plausibility of the view, framed in general terms. But Russellian monism comes in a wide variety of forms, and its plausibility hangs on the strength of its most promising variant. Correspondingly, there is a need for critiques of Russellian monism to be geared to the specifics of the theories that fall under its umbrella.
+
+Our project will aim at clarifying more of the detail of Russellian monism, both by developing specific forms of the position and by evaluating how current and new objections to it fare regarding these different versions. The aim is to develop viable versions of the theory, and to show at least some versions to be non-viable. Specifically, we hope to make progress on the question of whether Russellian monism can live up to its billing as the most promising form of non-physicalism available, or whether it collapses on closer scrutiny. The central goal of the project is to hold a two-day conference at Central European University, which we will follow up with an edited volume after the New Directions projected has ended, aimed at deep analysis and comparative assessment of Russellian monism’s various forms.
+
+<span class="caption text-muted">Image:
+<a href="https://www.flickr.com/photos/marcelxxl/16557878867/" target="_blank">REFLECTIONS</a>, M.G.N. - Marcel</span>
