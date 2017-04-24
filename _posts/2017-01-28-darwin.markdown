@@ -5,7 +5,7 @@ subtitle:   "Is There a Place for Non-Physicalist Consciousness Within a Darwini
 startdate:     2016-10-01 12:00:00
 enddate:       2017-08-30 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/darwin.jpg"
+header-img: "img/bgs/darwin-2.jpg"
 thumbnail: "darwin-thumbnail.png"
 people:
 - name: Cecily Whiteley
