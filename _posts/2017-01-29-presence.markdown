@@ -5,7 +5,7 @@ subtitle:   "The Phenomenology and Ontology of Conscious Intentionality"
 startdate:     2017-01-01 12:00:00
 enddate:       2017-09-30 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/presence.jpg"
+header-img: "img/bgs/presence-2.jpg"
 thumbnail: "presence-thumbnail.png"
 people:
 - name: Paul Livingston
