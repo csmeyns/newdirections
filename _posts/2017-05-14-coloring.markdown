@@ -4,7 +4,7 @@ title:      "Color and Coloring"
 startdate:     2016-10-01 12:00:00
 enddate:       2017-09-09 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/coloring-2.jpg"
+header-img: "img/bgs/coloring-3.jpg"
 thumbnail: "coloring-2-thumbnail.png"
 people:
 - name: Caitlin Dolan
