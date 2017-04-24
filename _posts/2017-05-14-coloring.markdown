@@ -8,6 +8,7 @@ header-img: "img/bgs/coloring-3.jpg"
 thumbnail: "coloring-2-thumbnail.png"
 people:
 - name: Caitlin Dolan
+  pic: dolan
   position: Principal Investigator
   social:
     - title: home
