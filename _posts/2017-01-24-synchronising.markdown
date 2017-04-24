@@ -5,7 +5,7 @@ subtitle:
 startdate:     2017-06-15 12:00:00
 enddate:       2017-09-30 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/synchronising.jpg"
+header-img: "img/bgs/synchronising-2.jpg"
 thumbnail: "synchronising-thumbnail.png"
 people:
 - name: Fiona Macpherson
