@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Consciousness and Presence"
+subtitle:   "The Phenomenology and Ontology of Conscious Intentionality"  
+startdate:     2017-01-01 12:00:00
+enddate:       2017-09-30 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/presence.jpg"
+thumbnail: "presence-thumbnail.png"
+people:
+- name: Paul Livingston
+  pic: livingston
+  position: Principal Investigator
+  social:
+    - title: home
+      url: https://www.unm.edu/~pmliving/
+
+---
+
+
+In the classical tradition of phenomenology founded by Edmund Husserl, consciousness and intentional meaning are both understood as intimately related to the structure and limits of the *world* as such. Recent discussions of consciousness, explanation, fundamentality, and semantics in analytic philosophy suggest a renewal and further contemporary development of this theme. What David Chalmers calls the “hard problem” of consciousness may be seen as resulting from the fact that consciousness and intentional meaning cannot be integrated without distortion into a total description of the objective facts and metaphysical structure of the material or physical world. This suggests new ways of thinking about how consciousness might nevertheless figure within a fundamental theory of the world, as well as how consciousness is related to the sense or meaning of the language in which such a theory could be stated.
+
+Another characteristic theme of classical phenomenology is the essential link between consciousness and *presence*. For philosophers following Brentano and Husserl, knowledge and meaning are understood as requiring presence or presentation of a content to or by a subject of experience. Here it is the direct *presentation* of a phenomenon in consciousness – rather than its *representation* in symbolically or linguistically mediated form – that plays the theoretically basic role. In the phenomenological tradition, presence is also understood as making possible reflexive (or self-relational) *self*-presentation: one can present to oneself the structure or content of one’s own occurring conscious or presentational states, as they are occurring.
+
+Can the logical and phenomenological structure of conscious intentionality be clarified in terms of presence and reflexivity, and its irreducibility to the physical thereby explained? This project is devoted to exploring the merits of this suggestion. If the suggestion is correct, then consciousness and intentionality cannot be accounted for by means of physical, causal, behavioral, or functional explanations. On the other hand, the clarification of its presentational and self-presentational structure also indicates its proper place within, or in relation to, a total description of the world.
+
+<span class="caption text-muted">Image:
+<a href="https://www.flickr.com/photos/mcgrayjr/2789875681" target="_blank">Meconopsis "Himalayan Poppy"</a>, Ernest McGray, Jr.</span>

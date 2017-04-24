@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      "Spatial Experience"
+startdate:     2016-10-01 12:00:00
+enddate:       2017-09-30 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/spatial.jpg"
+thumbnail: "spatial-thumbnail.png"
+people:
+- name: Alex Kerr
+  pic: kerr
+  position: Co-Principal Investigator
+  social:
+    - title: home
+      url: https://philosophy.berkeley.edu/people/detail/298
+- name: Tony Cheng
+  pic: cheng
+  position: Co-Principal Investigator
+  social:
+    - title: home
+      url: https://ucl.academia.edu/TonyCheng
+    - title: twitter
+      url: https://twitter.com/TonyHYCheng
+
+---
+
+We perceptually experience spatial features of, and relations between, things - their shape, size, distance, and orientation, for example. When we do, we enjoy *spatial experiences*. Our project aims to bring together philosophers and scientists for a conference on the central philosophical questions about spatial experience. We hope it will give an overview of the state of the art in the field.
+
+Some of the big-picture issues here are: Why do things appear the way they do in spatial experience? How does spatial experience relate to spatial cognition? And how is spatial experience important for ordinary and scientific empirical knowledge?
+
+More specific issues include: Do we see the same spatial features we feel? If we do, how should we explain the (seemingly big) differences in how things appear when seen and felt? Do we experience space itself, or only the spatial relations between ordinary objects? (Maybe we should first ask: Are these genuine alternatives, or mere notational variants?) Must space have a specific structure - for example, a specific topological or metric structure - in order for things to be how they appear?
+
+The debates over these issues may seem well worn. But we think they are fruitful ones to revisit right now. For the science and philosophy of spatial experience is flourishing, and recent advances may well shed light on old problems. We hope the conference can clarify how they do.
+
+
+<span class="caption text-muted">Image:
+<a href="https://www.flickr.com/photos/sammiemphotography/7193626352/" target="_blank">Title</a>, Cherry Blossoms</span>
