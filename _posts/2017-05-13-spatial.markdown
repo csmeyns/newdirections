@@ -4,7 +4,7 @@ title:      "Spatial Experience"
 startdate:     2016-10-01 12:00:00
 enddate:       2017-09-30 12:00:00
 author:     "New Directions"
-header-img: "img/bgs/spatial.jpg"
+header-img: "img/bgs/spatial-2.jpg"
 thumbnail: "spatial-thumbnail.png"
 people:
 - name: Alex Kerr
