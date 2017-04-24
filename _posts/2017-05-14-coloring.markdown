@@ -1,0 +1,28 @@
+---
+layout:     post
+title:      "Color and Coloring"
+startdate:     2016-10-01 12:00:00
+enddate:       2017-09-09 12:00:00
+author:     "New Directions"
+header-img: "img/bgs/coloring-2.jpg"
+thumbnail: "coloring-2-thumbnail.png"
+people:
+- name: Caitlin Dolan
+  position: Principal Investigator
+  social:
+    - title: home
+      url: https://philosophy.berkeley.edu/people/detail/267
+
+---
+
+
+The phenomenon of color is a gateway to fundamental questions about the relation between the mind and the natural world as empirical science describes it. Color is, in a certain sense, a bridge between the perceiving individual and the world she investigates: it is a feature she attributes to the publicly available objects in her surroundings, but one which she takes to be intimately bound up with her way of perceiving them.
+
+Stances on the nature of color have been shaped by considerations about the methodology and findings of empirical science. “Eliminativism” calls for erasing color from our conception of reality, motivated by the idea that our physical theories do without it, while “physicalist” views reduce it to wavelength of electromagnetic radiation, or the disposition of objects to reflect that radiation in a certain way, because of the role these play in our scientific theories of how visual systems operate. The debate about these ways of explicating color’s status exhibits a bias towards focusing on physics and biology in approaching this issue. This project aims to correct this bias, to achieve a broader perspective of the relation between color and empirical science, and thus to provide new ways of thinking about the kind of feature color is.
+
+Specifically, Color and Coloring initiates investigation into the materials science of color: research aimed at developing processes and products for manipulating the colors of things. This field is on a par with vision science, in that it concerns color indirectly. To find answers to questions about the mechanisms of color vision is not yet to give an account of what color is; analogously, materials science does not tell us what color is, but rather how to affect it in various ways. It studies “colorants,” not color. Nonetheless, reflecting on it can inform our understanding of color. In thinking about the constraints that guide its progress and measure its success – that is, in thinking about what counts as a technique for changing something’s color – we can better understand what color itself is.
+
+Insofar as accommodating these kinds of considerations reveals that color is bound up with distinctive and irreducibly human purposes, skills, and techniques, this investigation raises challenges for reductive accounts of color, and of our visual capacities.
+
+<span class="caption text-muted">Image:
+<a href="https://www.flickr.com/photos/keikbureau/8369178231" target="_blank">Colors</a>, KEIK Bureau</span>
