@@ -927,3 +927,36 @@ ul.share-buttons li{
     height: 495px;
   }
 }
+
+/* This is to optimize the size of a pic for different devices. This is really overkill - it's just for one thing! */
+
+@media (min-width: 320px) {
+  .pic {
+    width: 304px;
+    height: 171px;
+  }
+}
+@media (min-width: 360px) {
+  .pic {
+    width: 336px;
+    height: 189px;
+  }
+}
+@media (min-width: 400px) {
+  .pic {
+    width: 368px;
+    height: 207px;
+  }
+}
+@media (min-width: 550px) {
+  .pic {
+    width: 512px;
+    height: 288px;
+  }
+}
+@media (min-width: 650px) {
+  .pic {
+    width: 576px;
+    height: 324px;
+  }
+}
