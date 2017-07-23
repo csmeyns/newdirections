@@ -927,9 +927,3 @@ ul.share-buttons li{
     height: 495px;
   }
 }
-@media (min-width: 1200px) {
-  .video {
-    width: 1120px;
-    height: 630px;
-  }
-}
