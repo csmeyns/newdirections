@@ -16,7 +16,7 @@ As part of the New Directions project, Tim Crane, the Knightbridge Professor of 
 
 # Video
 
-<iframe width="1280" height="720" src="https://sms.cam.ac.uk/media/2488086/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe class="video" width="1280" height="720" src="https://sms.cam.ac.uk/media/2488086/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 [Download Audio](https://downloads.sms.cam.ac.uk/2488086/2488093.mp3)
 
