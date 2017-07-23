@@ -954,3 +954,9 @@ ul.share-buttons li{
     height: 288px;
   }
 }
+@media (min-width: 650px) {
+  .pic {
+    width: 576px;
+    height: 324px;
+  }
+}
