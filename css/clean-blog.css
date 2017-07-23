@@ -960,3 +960,9 @@ ul.share-buttons li{
     height: 324px;
   }
 }
+@media (min-width: 700px) {
+  .video {
+    width: 640px;
+    height: 360px;
+  }
+}
