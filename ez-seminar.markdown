@@ -8,11 +8,134 @@ permalink: /seminar/
 
 We are running a weekly seminar in Cambridge, led by Tim Crane. The theme for the seminar in year one was consciousness. The theme for year two is intentionality.
 
-It is attended by the project members and visitors, as well as undergraduate and graduate students at the University of Cambridge. Here you can find the audio and slides from the seminars. You can also download them on our page on <a href="https://itunes.apple.com/gb/itunes-u/new-directions-in-study-mind/id1173953206" target="_blank">iTunesU</a>. You can find slides from last year's seminar <a href="https://speakerdeck.com/newdirectionsproject" target="_blank">here</a>.
+It is attended by the project members and visitors, as well as undergraduate and graduate students at the University of Cambridge. Here you can find the slides from year one's seminar, and both audio and slides from year two's seminar. You can also download audio on our page on <a href="https://itunes.apple.com/gb/itunes-u/new-directions-in-study-mind/id1173953206" target="_blank">iTunesU</a>.
+
+## Year One - Consciousness
+
+You can find slides from last year's seminar below. Simply click to reveal them.
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+1. Introducing Intentionality and its History (<a href="javascript:;" onclick="return toggleMe('para01')" value="Toggle"><u>Slides</u></a>)
+<div id="para01" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-1.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+2. Intentionality, Mental Capacities, and Brentano (<a href="javascript:;" onclick="return toggleMe('para02')" value="Toggle"><u>Slides</u></a>)
+<div id="para02" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-2.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+3. Intentionality in Brentano and Analytic Philosophy (<a href="javascript:;" onclick="return toggleMe('para03')" value="Toggle"><u>Slides</u></a>)
+<div id="para03" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-3.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+4. Brentano and the Semantic Approach to the Propositional Attitudes (<a href="javascript:;" onclick="return toggleMe('para04')" value="Toggle"><u>Slides</u></a>)
+<div id="para04" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-4.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+5. The Semantic Approach and Intentionality vs. Intensionality (<a href="javascript:;" onclick="return toggleMe('para05')" value="Toggle"><u>Slides</u></a>)
+<div id="para05" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-5.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+6. Frege's Legacy (<a href="javascript:;" onclick="return toggleMe('para06')" value="Toggle"><u>Slides</u></a>)
+<div id="para06" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-6.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+7. The Inverted Spectrum (<a href="javascript:;" onclick="return toggleMe('para07')" value="Toggle"><u>Slides</u></a>)
+<div id="para07" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-7.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+8. Behaviourism's Legacy (<a href="javascript:;" onclick="return toggleMe('para08')" value="Toggle"><u>Slides</u></a>)
+<div id="para08" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-8.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+9. Varieties of Consciousness (<a href="javascript:;" onclick="return toggleMe('para09')" value="Toggle"><u>Slides</u></a>)
+<div id="para09" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-9.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+10. Conscious vs Unconscious Cognition (<a href="javascript:;" onclick="return toggleMe('para010')" value="Toggle"><u>Slides</u></a>)
+<div id="para010" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-10.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+11. Propositional Attitudes (<a href="javascript:;" onclick="return toggleMe('para011')" value="Toggle"><u>Slides</u></a>)
+<div id="para011" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-11.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+12. Conscious Content (<a href="javascript:;" onclick="return toggleMe('para012')" value="Toggle"><u>Slides</u></a>)
+<div id="para012" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-12.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+13. Being, Existence, and Quantification (<a href="javascript:;" onclick="return toggleMe('para013')" value="Toggle"><u>Slides</u></a>)
+<div id="para013" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-13.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+14. Meinong and Meinongianism (<a href="javascript:;" onclick="return toggleMe('para014')" value="Toggle"><u>Slides</u></a>)
+<div id="para014" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-14.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+15. The Solution to the Problem of Non-Existence (<a href="javascript:;" onclick="return toggleMe('para015')" value="Toggle"><u>Slides</u></a>)
+<div id="para015" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-15.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+14. Meinong and Meinongianism (<a href="javascript:;" onclick="return toggleMe('para016')" value="Toggle"><u>Slides</u></a>)
+<div id="para016" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-16.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
+
+<div style="background-color: #F5F5F5; padding: 12px;">
+15. The Solution to the Problem of Non-Existence (<a href="javascript:;" onclick="return toggleMe('para017')" value="Toggle"><u>Slides</u></a>)
+<div id="para017" class="toggle">
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-16.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
+</div>
 
 ## Year Two - Intentionality
 
-You can find audio and slides this year's seminar below. Simply click to reveal them.
+You can find audio and slides from this year's seminar below. Simply click to reveal them.
 
 <div style="background-color: #F5F5F5; padding: 12px;">
 1. Introducing Intentionality and its History (<a href="javascript:;" onclick="return toggleMe('para1')" value="Toggle"><u>Audio & Slides</u></a>)
