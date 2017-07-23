@@ -886,37 +886,37 @@ ul.share-buttons li{
 /* This is to optimize the size of the video player for different devices */
 
 @media (min-width: 320px) {
-  .slide {
+  .video {
     width: 304px;
     height: 171px;
   }
 }
 @media (min-width: 360px) {
-  .slide {
+  .video {
     width: 336px;
     height: 189px;
   }
 }
 @media (min-width: 400px) {
-  .slide {
+  .video {
     width: 368px;
     height: 207px;
   }
 }
 @media (min-width: 550px) {
-  .slide {
+  .video {
     width: 512px;
     height: 288px;
   }
 }
 @media (min-width: 650px) {
-  .slide {
+  .video {
     width: 576px;
     height: 324px;
   }
 }
 @media (min-width: 700px) {
-  .slide {
+  .video {
     width: 640px;
     height: 360px;
   }
