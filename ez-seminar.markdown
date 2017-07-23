@@ -15,49 +15,49 @@ It is attended by the project members and visitors, as well as undergraduate and
 You can find slides from last year's seminar below. Simply click to reveal them.
 
 <div style="background-color: #F5F5F5; padding: 12px;">
-1. Introducing Intentionality and its History (<a href="javascript:;" onclick="return toggleMe('para01')" value="Toggle"><u>Slides</u></a>)
+1. Conceptions of Physicalism (<a href="javascript:;" onclick="return toggleMe('para01')" value="Toggle"><u>Slides</u></a>)
 <div id="para01" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-1.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
-2. Intentionality, Mental Capacities, and Brentano (<a href="javascript:;" onclick="return toggleMe('para02')" value="Toggle"><u>Slides</u></a>)
+2. Supervenience and Reduction (<a href="javascript:;" onclick="return toggleMe('para02')" value="Toggle"><u>Slides</u></a>)
 <div id="para02" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-2.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
-3. Intentionality in Brentano and Analytic Philosophy (<a href="javascript:;" onclick="return toggleMe('para03')" value="Toggle"><u>Slides</u></a>)
+3. Ontological vs Explanatory Reduction  (<a href="javascript:;" onclick="return toggleMe('para03')" value="Toggle"><u>Slides</u></a>)
 <div id="para03" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-3.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
-4. Brentano and the Semantic Approach to the Propositional Attitudes (<a href="javascript:;" onclick="return toggleMe('para04')" value="Toggle"><u>Slides</u></a>)
+4. Emergence (<a href="javascript:;" onclick="return toggleMe('para04')" value="Toggle"><u>Slides</u></a>)
 <div id="para04" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-4.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
-5. The Semantic Approach and Intentionality vs. Intensionality (<a href="javascript:;" onclick="return toggleMe('para05')" value="Toggle"><u>Slides</u></a>)
+5. Physicalist Accounts of Consciousness and Intentionality (<a href="javascript:;" onclick="return toggleMe('para05')" value="Toggle"><u>Slides</u></a>)
 <div id="para05" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-5.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
-6. Frege's Legacy (<a href="javascript:;" onclick="return toggleMe('para06')" value="Toggle"><u>Slides</u></a>)
+6. Consciousness and Phenomenology (<a href="javascript:;" onclick="return toggleMe('para06')" value="Toggle"><u>Slides</u></a>)
 <div id="para06" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-6.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
-7. The Inverted Spectrum (<a href="javascript:;" onclick="return toggleMe('para07')" value="Toggle"><u>Slides</u></a>)
+7. The Qualia Conception of Consciousness (<a href="javascript:;" onclick="return toggleMe('para07')" value="Toggle"><u>Slides</u></a>)
 <div id="para07" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-7.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
@@ -92,44 +92,44 @@ You can find slides from last year's seminar below. Simply click to reveal them.
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
-12. Conscious Content (<a href="javascript:;" onclick="return toggleMe('para012')" value="Toggle"><u>Slides</u></a>)
+12. Phenomenal vs. Access Consciousness (<a href="javascript:;" onclick="return toggleMe('para012')" value="Toggle"><u>Slides</u></a>)
 <div id="para012" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-12.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
-13. Being, Existence, and Quantification (<a href="javascript:;" onclick="return toggleMe('para013')" value="Toggle"><u>Slides</u></a>)
+13. Conscious Content (<a href="javascript:;" onclick="return toggleMe('para013')" value="Toggle"><u>Slides</u></a>)
 <div id="para013" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-13.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
-14. Meinong and Meinongianism (<a href="javascript:;" onclick="return toggleMe('para014')" value="Toggle"><u>Slides</u></a>)
+14. Consciousness and the Content of Pictures (<a href="javascript:;" onclick="return toggleMe('para014')" value="Toggle"><u>Slides</u></a>)
 <div id="para014" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-14.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
-15. The Solution to the Problem of Non-Existence (<a href="javascript:;" onclick="return toggleMe('para015')" value="Toggle"><u>Slides</u></a>)
+15. Acquaintance and Demonstrative Thought (<a href="javascript:;" onclick="return toggleMe('para015')" value="Toggle"><u>Slides</u></a>)
 <div id="para015" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-15.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
-14. Meinong and Meinongianism (<a href="javascript:;" onclick="return toggleMe('para016')" value="Toggle"><u>Slides</u></a>)
+16. Returning to Physicalism (<a href="javascript:;" onclick="return toggleMe('para016')" value="Toggle"><u>Slides</u></a>)
 <div id="para016" class="toggle">
 <p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-16.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
-15. The Solution to the Problem of Non-Existence (<a href="javascript:;" onclick="return toggleMe('para017')" value="Toggle"><u>Slides</u></a>)
+17. A Non-Physicalist Alternative (<a href="javascript:;" onclick="return toggleMe('para017')" value="Toggle"><u>Slides</u></a>)
 <div id="para017" class="toggle">
-<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-16.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-17.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
