@@ -25,7 +25,17 @@ header-img: "img/events-bg3.jpg"
 		<li class="next">
 		<a href="..">Back</a>	
 		</li>
-		</ul>	 -->		
+		</ul>	 -->
+			<div class="post-preview">
+				<h1 class="post-title"><a href="/seminar/">New Directions Seminar</a></h1>	        			
+				<p class="post-meta">Cambridge, 2016-2017</p>
+			</div>
+			<hr>
+			<div class="post-preview">
+				<h1 class="post-title"><a href="http://www.humanmindconference.com/">The Human Mind Conference</a></h1>	        			
+				<p class="post-meta">The Møller Centre, Cambridge, 27-29 June 2017</p>
+			</div>
+			<hr>
 		{% assign curaDate = site.time | date: '%s' %}
 		{% for event in site.categories.events %}
 			{% assign postaStartDate = event.date | date: '%s' %}	
@@ -43,12 +53,6 @@ header-img: "img/events-bg3.jpg"
 							{% else %}				
 				{% endif %}
 		{% endfor %}
-		</li>
-			<div class="post-preview">
-				<h2 class="post-title"><a href="http://www.humanmindconference.com/">The Human Mind Conference</a></h2>	        			
-				<p class="post-meta">The Møller Centre, Cambridge, 27-29 June 2017</p>
-			</div>
-			<hr>	
 <!-- 		<ul class="pager">
 		<li class="next">
 		<a href="..">Back</a>	
