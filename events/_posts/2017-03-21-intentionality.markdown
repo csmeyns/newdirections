@@ -34,7 +34,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
 
-### Session 1: Brain & World: Perception & Consciousness
+<strong>Session 1: Brain & World: Perception & Consciousness</strong>
 
 </div>
 
