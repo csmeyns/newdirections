@@ -33,9 +33,16 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 </div>
 
 <div style="padding: 12px; border-left: solid #F5F5F5; border-right: solid #F5F5F5;">
+<a href="https://sites.google.com/a/umn.edu/peter-hanks/home" target="_blank">Peter Hanks</a>: <em>The Classificatory Conception of Propositional Content</em>
+(<a href="javascript:;" onclick="return toggleMe('para11')" value="Toggle"><u>Abstract</u></a>) (<a href="javascript:;" onclick="return toggleMe('para12')" value="Toggle"><u>Audio & Slides</u></a>)
 
-<strong>Session 1: Brain & World: Perception & Consciousness</strong>
+<span id="para11" class="toggle abstract">What does it mean for a mental state or an utterance to “have propositional content”? Here I contrast three different answers to this question, which I will call the Fregean, Russellian, and classificatory conceptions of propositional content. According to the Fregean conception, propositions are the primary bearers of representational features and truth-conditions, and mental states and utterances inherit these features from propositions. According to the Russellian conception, propositions are what we represent in our mental states and utterances — they are what these states and utterances are directed at. According to the classificatory conception, propositions are classificatory devices, which we use to identify and individuate our mental states and utterances. After raising problems for the Fregean and Russellian approaches I will explore the consequences of the classificatory conception for our view of propositional attitudes and speech acts.</span>
 
+<div id="para12" class="toggle">
+<p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457067/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
+<p><a href="https://downloads.sms.cam.ac.uk/2457067/2457073.mp3" target="_blank" download>Download Audio</a></p>
+<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/hanks.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+</div>
 </div>
 
 <div style="background-color: #F5F5F5; padding: 12px;">
