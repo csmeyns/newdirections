@@ -1,10 +1,10 @@
 # Site settings
 title: New Directions
 header-img: img/home-bg3.jpg
-email: newdirectionsphilmind@gmail.com
+email: computer.officer@phil.cam.ac.uk
 description: "New Directions in the Study of the Mind Project."
-baseurl: http://www.newdirectionsproject.com
-siteurl: http://www.newdirectionsproject.com
+baseurl: http://philcambnd.github.io/newdirectionsproject.github.io/
+siteurl: http://philcambnd.github.io/newdirectionsproject.github.io/
 twitter_username: studyofthemind
 facebook_username: newdirectionsmindproject
 instagram_username: newdirectionsproject
