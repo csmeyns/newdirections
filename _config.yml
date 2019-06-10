@@ -144,3 +144,5 @@ collaborator:
      #     annotation : bubble
      # linkedin :
      #     counter : right
+
+theme: jekyll-theme-cayman
