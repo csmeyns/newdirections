@@ -28,7 +28,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para17" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456820/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2456820/2456826.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/crane.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/crane.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -41,7 +41,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para12" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457067/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457067/2457073.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/hanks.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/hanks.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -55,7 +55,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para2" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456831/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2456831/2456837.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/gow.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/gow.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -67,7 +67,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <span id="para3" class="toggle abstract">This paper offers a novel argument in favour of experiential pluralism about visual experience – the view that the nature of successful visual experience is different from the nature of unsuccessful visual experience. In addition, it makes a methodological point about philosophical debates concerning the nature of perceptual experience: whether a given view about the nature of experience amounts to an interesting and substantive thesis about our own minds, depends on the significance of the psychological kind claim made by it. This means that an adequate defence of a given view of the nature of experience must include articulation of the latter's significance qua psychological kind. The argument advanced provides the material to meet this demand. In turn, this constitutes further support for the argument itself.</span>
 
 <div id="para4" class="toggle">
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/spener.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/spener.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -80,7 +80,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para6" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2456842/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2456842/2456848.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/golob.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/golob.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -93,7 +93,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para8" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457025/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457025/2457031.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/livingston.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/livingston.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -106,7 +106,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para10" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457036/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457036/2457042.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/montague.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/montague.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -119,7 +119,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para14" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457078/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457078/2457084.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/brigham.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/brigham.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -132,7 +132,7 @@ You can find abstracts, audio, slides, and handouts from the workshop's talks be
 <div id="para16" class="toggle">
 <p><iframe class="audioplayer" src="//sms.cam.ac.uk/media/2457089/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
 <p><a href="https://downloads.sms.cam.ac.uk/2457089/2457095.mp3" target="_blank" download>Download Audio</a></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/intentionality/soteriou.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/intentionality/soteriou.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
