@@ -29,7 +29,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para1" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590530/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe  src="/ViewerJS/#../pdfs/thmc/Crane.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><a href="https://philcambnd.github.io/newdirectionsproject.github.io/pdfs/thmc/Crane.pdf">Slides</a></p>
 </div>
 </div>
 
