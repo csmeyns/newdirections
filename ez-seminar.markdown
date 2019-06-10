@@ -17,7 +17,7 @@ You can find slides from last year's seminar below. Simply click to reveal them.
 <div style="background-color: #F5F5F5; padding: 12px;">
 1. Conceptions of Physicalism (<a href="javascript:;" onclick="return toggleMe('para01')" value="Toggle"><u>Slides</u></a>)
 <div id="para01" class="toggle">
-<p><iframe class="map" src="/ViewerJS/#../pdfs/seminar/consciousness-1.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/seminar/consciousness-1.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
