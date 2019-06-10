@@ -58,7 +58,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para5" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590589/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Clark.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Clark.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -85,7 +85,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para9" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590660/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/O'Brien.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/O'Brien.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -97,7 +97,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para11" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590589/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Haggard.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Haggard.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -109,11 +109,11 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para13" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590791/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Holton.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Holton.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 <div id="para14" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590798/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Dickinson.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Dickinson.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -140,7 +140,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para18" class="toggle">
 <p><iframe class="audioplayer" src="https://sms.cam.ac.uk/media/2595707/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Heyes.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Heyes.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -152,7 +152,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para20" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590878/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Frith.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Frith.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -164,7 +164,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para22" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590919/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Carston.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Carston.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -176,7 +176,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para24" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590926/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Zahavi.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Zahavi.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -203,7 +203,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para28" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590945/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Gerrans.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Gerrans.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -215,7 +215,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para30" class="toggle">
 <p><iframe class="audioplayer" src="https://sms.cam.ac.uk/media/2590952/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Egan.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Egan.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
@@ -227,7 +227,7 @@ You can find abstracts, videos, and slides from the conference's talks below. Si
 
 <div id="para32" class="toggle">
 <p><iframe class="video" src="https://sms.cam.ac.uk/media/2590963/embed" frameborder="0" scrolling="no" allowfullscreen></iframe></p>
-<p><iframe class="map" src="/ViewerJS/#../pdfs/thmc/Martin.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
+<p><iframe class="map" src="https://philcambnd.github.io/newdirectionsproject.github.io/ViewerJS/#../pdfs/thmc/Martin.pdf" allowfullscreen webkitallowfullscreen></iframe></p>
 </div>
 </div>
 
