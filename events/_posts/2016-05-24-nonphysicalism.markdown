@@ -33,7 +33,7 @@ Consciousness has been one of the stumbling blocks for physicalist theories of t
 9:00 | <a href="http://www.umu.se/sok/english/staff-directory?uid=brva0002&guiseId=246769&orgId=4864cb4234d0bf7c77c65d7f78ffca7ecaf285c7&depId=fd07f6b0985c3309cf2eb9a689fab86cd30c028a&name=Bram%20Vaassen" target="_blank">Bram Vaassen</a>: Mental Causation for Naturalist Dualists (<a href="{{ site.baseurl }}/pdfs/handout_vaassen.pdf">handout</a>, <a href="https://speakerdeck.com/newdirectionsproject/bram-vaassen-mental-causation-for-naturalist-dualists" target="_blank">slides</a>)
 10:00 | <a href="http://www.humanities.mcmaster.ca/~philos/people/grad.php" target="_blank">John Roman</a>: What is Synesthetic Color? (<a href="https://speakerdeck.com/newdirectionsproject/john-roman-what-is-synesthetic-color" target="_blank">slides</a>)
 11:00 | Coffee
-11:30 | <a href="http://charlessiewert.com/" target="_blank">Charles Siewert</a>: Experienced Thought and Self-Knowledge
+11:30 | <a href="http://charlessiewert.com/" target="_blank">Charles Siewert</a>: Experienced Thought and Self-Knowledge (<a href="{{ site.baseurl }}/pdfs/siewert_slides.pdf">slides</a>
 1:00 | Lunch
 2:00 | <a href="https://heddahasselmorch.wordpress.com/" target="_blank">Hedda Hassel Mørch</a>: IIT, Russellian Monism and the Combination Problem (<a href="https://speakerdeck.com/newdirectionsproject/hedda-hassel-morch-iit-russellian-monism-and-the-combination-problem" target="_blank">slides</a>) 
 3:00 | Tea
